@@ -1,4 +1,5 @@
 ---
+title: Aboa
 tags:
   - "#location"
   - "#continent"

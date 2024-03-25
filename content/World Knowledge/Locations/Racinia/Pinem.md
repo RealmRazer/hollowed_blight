@@ -1,4 +1,5 @@
 ---
+title: Pinem
 tags:
   - location
   - "#kingdom"

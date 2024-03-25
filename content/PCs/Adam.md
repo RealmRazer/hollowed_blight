@@ -1,4 +1,5 @@
 ---
+title: Adam
 tags:
   - "#player"
 ---

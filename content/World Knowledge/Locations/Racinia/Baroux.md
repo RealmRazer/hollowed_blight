@@ -1,4 +1,5 @@
 ---
+title: Baroux
 tags:
   - location
   - city

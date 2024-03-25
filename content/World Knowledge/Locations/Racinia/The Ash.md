@@ -1,4 +1,5 @@
 ---
+title: The Ash
 tags:
  - location
 ---

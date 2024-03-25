@@ -1,4 +1,5 @@
 ---
+title: Blue
 tags:
   - "#player"
 ---

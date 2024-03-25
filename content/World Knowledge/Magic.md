@@ -1,4 +1,5 @@
 ---
+title: Magic
 tags:
   - "#knowledge"
 ---
