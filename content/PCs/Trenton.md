@@ -1,5 +1,5 @@
 ---
 title: Trenton
 tags:
-  - "#player"
+  - "#players"
 ---

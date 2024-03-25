@@ -1,5 +1,5 @@
 ---
 title: Alex
 tags:
-  - "#player"
+  - "#players"
 ---

@@ -1,5 +1,5 @@
 ---
 title: Thomas
 tags:
-  - "#player"
+  - "#players"
 ---

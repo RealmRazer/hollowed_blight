@@ -1,10 +1,10 @@
 ---
 title: Aboa
 tags:
-  - "#location"
-  - "#continent"
+  - location
+  - continent
 ---
-
+![[aboa.webp]]
 # Description
 
 ## Major Locations

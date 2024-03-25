@@ -1,5 +1,5 @@
 ---
 title: Connor
 tags:
-  - "#player"
+  - "#players"
 ---

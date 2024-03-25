@@ -1,8 +1,8 @@
 ---
 title: Anthioc
 tags:
-  - "#location"
-  - "#city"
+  - location
+  - city
 aliases:
   - The Tower
   - Symposium

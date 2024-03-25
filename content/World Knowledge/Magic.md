@@ -1,5 +1,5 @@
 ---
 title: Magic
 tags:
-  - "#knowledge"
+  - knowledge
 ---

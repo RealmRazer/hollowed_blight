@@ -2,7 +2,7 @@
 title: Pinem
 tags:
   - location
-  - "#kingdom"
+  - kingdom
 ---
 # Description
 
