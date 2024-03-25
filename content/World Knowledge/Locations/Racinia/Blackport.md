@@ -17,7 +17,7 @@ _Layout_: Blackport is divided into several districts. The central area houses t
 3.  _The Beacon Tower_: Situated on the highest point of the city, the Beacon Tower serves as a warning system. A large brazier sits atop it, ready to be lit to alert the kingdom of [[Pinem]] of any impending threats.
 
 ## Important People or Places
-1.  _[[Seraphina Blackthorn|Commander Seraphina Blackthorn]]_: As the leader of the military forces stationed in Blackport, [[Seraphina Blackthorn|Commander Blackthorn]] is a respected and skilled tactician. Her unwavering determination and strategic brilliance have helped fortify Blackport's defenses against incursions from [[The Ash]].
+1.  _[[Seraphina Velora|Commander Seraphina Blackthorn]]_: As the leader of the military forces stationed in Blackport, [[Seraphina Velora|Commander Blackthorn]] is a respected and skilled tactician. Her unwavering determination and strategic brilliance have helped fortify Blackport's defenses against incursions from [[The Ash]].
 2.  _The [[Ironwood Guild]]_: A group of elite mercenaries known for their exceptional combat prowess, they have made Blackport their headquarters. Led by Captain Aldric Ironwood, they are often hired by the kingdom to undertake dangerous missions beyond [[The Ash]].
 3.  _The [[Alchemist's Guild]]_: Run by the reclusive but brilliant alchemist, Professor Elara, this workshop is known for producing potions and protective charms that aid the city's defenders. The professor's knowledge of the arcane and her dedication to finding ways to combat the dangers of [[The Ash]] make her a valuable asset to Blackport.
 
