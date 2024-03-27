@@ -1,5 +1,5 @@
 ---
-title: Human
+title: Dwarves
 tags:
   - knowledge
   - stock
