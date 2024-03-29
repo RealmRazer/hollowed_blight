@@ -13,5 +13,5 @@ While largely sheltered by the natural mountains of [[Racinica]], trade is a lar
 Much of the kingdom's exports focus on agriculture and forestry due to it's abundant blossoming landscapes. The forests to the south also produce trees of reputable caliber, though any of such high quality are reserved for top bidders or projects of import.
 ## Major Locations
 
-1. [[Blackport]]:
+1. [[Blackport]]
 2. [[Maelbreak]]

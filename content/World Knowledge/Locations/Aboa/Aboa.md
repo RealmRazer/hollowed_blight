@@ -9,7 +9,8 @@ tags:
 <map name="aboa">  
   <area shape="circle" coords="375,334,18" alt="N'Wathi" href="N'Wathi"> 
 </map>
+
 # Description
 
 ## Major Locations
-1. [[N'Wathi]]:
+1. [[N'Wathi]]
