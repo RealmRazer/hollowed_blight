@@ -1,7 +1,6 @@
 ---
 title: Aecer
 tags:
-  - knowledge
   - divinity
 aliases:
   - The Great Gatherer

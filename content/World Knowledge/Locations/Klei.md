@@ -1,7 +1,6 @@
 ---
 title: Klei
 tags:
- - location
  - world
 ---
 <img src="../images/klei_2x.webp" alt="Klei" usemap="#klei">  

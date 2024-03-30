@@ -1,7 +1,6 @@
 ---
 title: Trord
 tags:
-  - location
   - continent
 ---
 <img src="../../images/trord.webp" alt="Trord" usemap="#trord">  

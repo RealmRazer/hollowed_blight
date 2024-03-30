@@ -1,7 +1,6 @@
 ---
 title: Free Ports of Trord
 tags:
-  - location
   - city
 ---
 # Description

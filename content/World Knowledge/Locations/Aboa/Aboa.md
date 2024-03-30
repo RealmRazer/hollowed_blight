@@ -1,7 +1,6 @@
 ---
 title: Aboa
 tags:
-  - location
   - continent
 ---
 <img src="../../images/aboa.webp" alt="Aboa" usemap="#aboa">  

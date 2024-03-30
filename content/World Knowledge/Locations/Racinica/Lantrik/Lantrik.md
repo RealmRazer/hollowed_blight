@@ -1,7 +1,6 @@
 ---
 title: Lantrik
 tags:
-  - location
   - kingdom
 ---
 # Description

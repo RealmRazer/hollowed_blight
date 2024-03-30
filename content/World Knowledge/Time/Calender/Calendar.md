@@ -2,6 +2,7 @@
 title: Calendar
 tags:
   - knowledge
+  - time
 ---
 # Overview
 The world of [[Klei]] functions using a simple 6 period calendar. Each "month" on the calendar is attributed to a point of worship for the great [[Numera|Numeran]] religion. Additionally, each month is broken down into roughly 7-10 "weeks," each comprising of 8 "days."
@@ -23,14 +24,14 @@ Months reflect the original tenets of [[Numera]]. Each "year" under the calendar
 
 ## Days
 Each day of the calendar is named after one of the original faithful to the [[Numera|Numeran]] order. The days of the calendar are as follows:
-* [[Vristan]]
-* [[Katstan]]
-* [[Wrystan]]
-* [[Pilustan]]
-* [[Radstan]]
-* [[Cridtstan]]
-* [[Montstan]]
-* [[Yorustan]]
+* Vristan
+* Katstan
+* Wrystan
+* Pilustan
+* Radstan
+* Cridtstan
+* Montstan
+* Yorustan
 
 ---
 # Complete Calendar

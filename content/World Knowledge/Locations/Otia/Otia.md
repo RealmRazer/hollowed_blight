@@ -1,7 +1,6 @@
 ---
 title: Otia
 tags:
-  - location
   - continent
 ---
 <img src="../../images/otia.webp" alt="Otia" usemap="#otia">  

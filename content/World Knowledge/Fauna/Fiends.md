@@ -1,7 +1,6 @@
 ---
 title: Fiends
 tags:
-  - knowledge
   - creatures
 aliases:
   - monsters

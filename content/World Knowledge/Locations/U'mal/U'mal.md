@@ -1,7 +1,6 @@
 ---
 title: U'mal
 tags:
-  - location
   - continent
 ---
 <img src="../../images/umal.webp" alt="U'mal" usemap="#umal">  

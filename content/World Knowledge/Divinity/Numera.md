@@ -1,7 +1,6 @@
 ---
 title: Numera
 tags:
-  - knowledge
   - divinity
 aliases:
   - Pillar of Light

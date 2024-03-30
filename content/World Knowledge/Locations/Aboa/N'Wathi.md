@@ -1,7 +1,6 @@
 ---
 title: N'Wathi
 tags:
-  - location
   - city
 ---
 # Description

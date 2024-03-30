@@ -1,7 +1,6 @@
 ---
 title: Pramos
 tags:
-  - location
   - continent
 ---
 <img src="../../images/pramos.webp" alt="Pramos" usemap="#pramos">  

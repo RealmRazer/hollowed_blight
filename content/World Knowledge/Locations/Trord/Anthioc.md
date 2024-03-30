@@ -1,7 +1,6 @@
 ---
 title: Anthioc
 tags:
-  - location
   - city
 aliases:
   - The Tower

@@ -1,7 +1,6 @@
 ---
 title: Racinica
 tags:
-  - location
   - continent
 ---
 <img src="../../images/racinica.webp" alt="Racinica" usemap="#racinica">  
