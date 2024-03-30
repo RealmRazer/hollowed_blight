@@ -13,4 +13,15 @@ Nor are Elves above the common struggle. They are as complex and internecine as 
 
 ## Culture
 
+
 ## Places of Influence
+
+
+## Elven Song
+The [[magic]] of elves.
+
+### Grief
+....
+
+### Spite
+....

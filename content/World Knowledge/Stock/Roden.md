@@ -15,4 +15,9 @@ Those Below no longer have [[Magic|faith]]. What remain are bitterness, conspira
 
 ## Culture
 
+
 ## Places of Influence
+
+
+## Faith and Sorcery
+The [[magic]] of roden.

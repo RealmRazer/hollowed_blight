@@ -11,4 +11,8 @@ aliases:
 
 ## Culture
 
+
 ## Places of Influence
+
+## Faith and Sorcery
+The [[magic]] of humans.

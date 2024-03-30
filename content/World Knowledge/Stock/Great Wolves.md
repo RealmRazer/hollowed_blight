@@ -19,3 +19,13 @@ Just like lesser wolves, Great Wolves have a complex social structure built arou
 Great Wolf packs are smaller than lesser wolf packs, containing perhaps three to six wolves. The Dominant wolves are generally the strongest and largest in the pack, but this is not always the case. Smaller, wiser wolves have been known to lead very successfully.
 
 ## Places of Influence
+
+
+### Great Wolf Spirits
+The [[magic]] of great wolves.
+
+#### Spirit Songs
+....
+
+#### Dire Haunts
+....

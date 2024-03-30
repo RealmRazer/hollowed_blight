@@ -25,7 +25,7 @@ The western continent of Klei, housing the kingdoms of [[Pinem]] and [[Lantrik]]
 A small continent to the east of [[Racinica]]. A long history of trade and establishment of the magic tower [[Anthioc]] have made Trord and its [[Free Ports of Trord|port city]] an important location for all of Klei.
 
 ## [[Aboa]]
-A location of diverse landscapes to the eastern edges of Klei. Sporting larges forest and the immense desert region to its southern reaches, Aboa is a host to many naturalists and scholars to Klei's interworkings.
+A location of diverse landscapes to the eastern edges of Klei. Sporting larges forest and the immense desert region to its southern reaches, Aboa is a host to many naturalists and scholars to Klei's innerworkings.
 
 ## [[Otia]]
 The small mountainous continent to the north of Aboa at the eastern reaches of Klei. Otia is a home to craftsman and a great exporter of mined ores and materials hard to obtain in other regions of Klei.

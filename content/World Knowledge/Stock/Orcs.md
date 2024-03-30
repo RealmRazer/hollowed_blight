@@ -17,4 +17,18 @@ Unlike their cousins, Orcs live under terrifying and brutal conditions—an Orc 
 
 ## Culture
 
+
 ## Places of Influence
+
+
+### Orcish Rituals
+The [[magic]] of orcs.
+
+#### Void
+....
+
+#### Blood
+....
+
+#### Night
+....

@@ -12,4 +12,10 @@ Born under the [[Klei|earth]] at the dawn of the world and destined to create th
 Lying in the heart of every Dwarf is a terrible seed—one of avarice, lust and [[Magic|greed]]. It is a strange facet of their nature. Some Dwarves manage hold it in check, others give in to it—acquiring all they desire in a bloody swath of war, murder and betrayal.
 ## Culture
 
+
 ## Places of Influence
+
+
+### Dwarvish Greed
+The [[magic]] of dwarves.
+
