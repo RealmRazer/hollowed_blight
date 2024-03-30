@@ -4,4 +4,4 @@ tags:
   - time
   - month
 ---
-The month of enlightenment
+The fifth month of the New Light [[Numera|Numeran]] [[calendar]], symbolizing the enlightenment achieved after overcoming adversity.

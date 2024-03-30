@@ -4,4 +4,4 @@ tags:
   - time
   - month
 ---
-The month of growth
+The second month of the New Light [[Numera|Numeran]] [[calendar]], symbolizing a devotee's growth through passage. 

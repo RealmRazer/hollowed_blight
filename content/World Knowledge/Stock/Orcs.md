@@ -5,7 +5,6 @@ tags:
   - stock
 aliases:
 ---
-
 # Description
 Twisted, tortured and fulgent with [[Magic|hate]], these cousins of the [[Elves]] exist in a culture that is a cruel mockery of civilization—one of fear and brutality, a society of the whip.
 
@@ -24,11 +23,15 @@ Unlike their cousins, Orcs live under terrifying and brutal conditions—an Orc 
 ### Orcish Rituals
 The [[magic]] of orcs.
 
+#### Fury
+...
+
+##### Blood
+....
+
+##### Night
+....
+
 #### Void
 ....
 
-#### Blood
-....
-
-#### Night
-....

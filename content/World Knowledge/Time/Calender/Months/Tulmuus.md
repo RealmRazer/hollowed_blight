@@ -4,4 +4,4 @@ tags:
   - time
   - month
 ---
-The month of turmoil
+The fourth month of the New Light [[Numera|Numeran]] [[calendar]], symbolizing the turmoil and strife of worldly encounters. 

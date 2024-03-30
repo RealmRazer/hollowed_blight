@@ -4,4 +4,4 @@ tags:
   - time
   - month
 ---
-The final month of a New Light, symbolizing of death
+The final month of the New Light [[Numera|Numeran]] [[calendar]], symbolizing death and the end of a journey.
