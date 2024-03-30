@@ -7,4 +7,4 @@ The night comes like any other. Soot and sand paint the onyx walls of [[Blackpor
 
 Lights pass through the streets as the activities for the night come to their natural conclusion, a night like any other. As the sands whip their way through the alleys, the quakes begin. In the cacophony of the night, the bell tower rings, and silence falls on the streets of [[Blackport]].
 
-This is where the city the #players find themselves.
+This is where the #players find themselves.

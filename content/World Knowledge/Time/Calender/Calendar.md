@@ -5,15 +5,15 @@ tags:
   - time
 ---
 # Overview
-The world of [[Klei]] functions using a simple 6 period calendar. Each "month" on the calendar is attributed to a point of worship for the great [[Numera|Numeran]] religion. Additionally, each month is broken down into roughly 7-10 "weeks," each comprising of 8 "days."
+The world of [[Klei]] functions using a simple 6 period calendar. Each "month" on the calendar is attributed to a point of worship for the [[Numera|Numeran]] religion. Additionally, each month is broken down into roughly 7-10 "weeks," each comprising of 8 "days."
 
 ## Years
-Years for the current time period are counted from the establishment of the first clerical order of [[Numera]]. The establishment of [[Numera|Numeran]] faith led to a major period of peace in [[Aboa]] and is honored throughout [[Klei]]. To denote the time period, any numerical representation of the year is preceded by the abbreviation "NL" for the new journey's light.
+Years for the current time period are counted from the establishment of the first clerical order of [[Numera]]. The establishment of [[Numera|Numeran]] faith led to a major period of peace in [[Aboa]] and is honored throughout [[Klei]]. To denote the time period, any numerical representation of the year is preceded by the abbreviation "NL", New Light, for the new journey's beginnings.
 
-The year at the start of _The Hollowed Blight_ is NL 223.
+The year at the start of _[[content/index|The Hollowed Blight]]_ is NL 223.
 
 ## Months
-Months reflect the original tenets of [[Numera]]. Each "year" under the calendar is a reflection of a full pilgrimage that might have been taken by early acolytes. As such, the months symbolize the completion of a full journey and the start of a new one. In order, the a year is broken down as:
+Months reflect the original tenets of [[Numera]]. Each "year" under the calendar is a reflection of a full pilgrimage that might have been taken by early acolytes. As such, the months symbolize the completion of a full journey and the start of a new one. In order, a year is broken down as:
 
 * [[Nativ]]
 * [[Irementu]]
@@ -23,7 +23,7 @@ Months reflect the original tenets of [[Numera]]. Each "year" under the calendar
 * [[Morti]]
 
 ## Days
-Each day of the calendar is named after one of the original faithful to the [[Numera|Numeran]] order. The days of the calendar are as follows:
+Each day of the calendar is named after one of the original faithful to the First [[Numera|Numeran]] order. The days of the calendar are as follows:
 * Vristan
 * Katstan
 * Wrystan
@@ -35,8 +35,7 @@ Each day of the calendar is named after one of the original faithful to the [[Nu
 
 ---
 # Complete Calendar
-
-Below is a simple display of the complete calendar for [[Klei]] as of NL 223 . Each Month is displayed with the proper amount of days for the observed period. No leap days or seconds are observed purely for simplicity.
+Below is a simple display of the complete calendar for [[Klei]] as of NL 223 . Each month is displayed with the proper amount of days for the observed period. No leap days or seconds are observed purely for simplicity.
 
 ### Nativ
 | Vristan | Katstan | Wrystan | Pilustan | Radstan | Cridtstan | Montstan | Yorustan |
