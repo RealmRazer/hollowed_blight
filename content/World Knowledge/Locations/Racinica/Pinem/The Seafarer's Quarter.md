@@ -1,7 +1,6 @@
 ---
 title: The Seafarer's Quarter
 tags:
-  - location
   - district
 ---
 

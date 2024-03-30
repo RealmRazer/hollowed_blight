@@ -1,7 +1,6 @@
 ---
 title: Blackport
 tags:
- - location
  - city
 ---
 # Description

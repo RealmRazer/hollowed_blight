@@ -1,7 +1,6 @@
 ---
 title: Maelbreak
 tags:
-  - location
   - city
 aliases:
 ---

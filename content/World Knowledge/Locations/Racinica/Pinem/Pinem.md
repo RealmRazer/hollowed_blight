@@ -1,7 +1,6 @@
 ---
 title: Pinem
 tags:
-  - location
   - kingdom
 ---
 # Description
