@@ -7,7 +7,7 @@ tags:
  <table>
   <tr>
     <td rowspan="8">Image here</td>
-    <td><b><strong>Stock:</b></strong>...</td>
+    <td><b><strong>Stock:</b></strong>Human</td>
   </tr>
   <tr>
     <td><b><strong>Home:</b></strong>...</td>

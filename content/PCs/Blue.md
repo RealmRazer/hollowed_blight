@@ -1,13 +1,13 @@
 ---
 title: Blue
 tags:
-  - "#players"
+  - players
 ---
 
  <table>
   <tr>
     <td rowspan="8">Image here</td>
-    <td><b><strong>Stock:</b></strong>...</td>
+    <td><b><strong>Stock:</b></strong>Roden</td>
   </tr>
   <tr>
     <td><b><strong>Home:</b></strong>...</td>
@@ -33,3 +33,4 @@ tags:
 </table> 
 
 # Background
+Lives in Trenton's workshop
