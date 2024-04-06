@@ -6,7 +6,7 @@ tags:
 
  <table>
   <tr>
-    <td rowspan="8"><img src="/content/images/Tyr.png" alt="Tyr Emeraldcrag"></td>
+    <td rowspan="8"><img src="../images/Tyr.png" alt="Tyr Emeraldcrag"></td>
     <td><b><strong>Stock:</b></strong>Dwarf</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@ tags:
     <td><b><strong>Beliefs:</b></strong><br>- Protect my patron's property.<br>- Take what is rightfully mine, the throne of Emeraldcrag.<br>- Earn my Mask.<br>- Prevent disaster for the Dwarves by gaining political power.</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong>...</td>
+    <td><b><strong>Traits:</b></strong><br></td>
   </tr>
 </table> 
 
