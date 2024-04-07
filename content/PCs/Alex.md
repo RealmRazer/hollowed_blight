@@ -13,7 +13,7 @@ tags:
     <td><b><strong>Home:</b></strong>...</td>
   </tr>
     <tr>
-    <td><b><strong>Age:</b></strong>...</td>
+    <td><b><strong>Age:</b></strong> 23</td>
   </tr>
     <tr>
     <td><b><strong>Height:</b></strong>...</td>
@@ -28,7 +28,7 @@ tags:
     <td><b><strong>Beliefs:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong>...</td>
+    <td><b><strong>Traits:</b></strong><br>- Disturbingly Confident<br>- Predatory<br>- Problem with Authority<br>- Catalyst<br>- Sea Legs</td>
   </tr>
 </table> 
 

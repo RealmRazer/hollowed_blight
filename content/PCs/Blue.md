@@ -13,7 +13,7 @@ tags:
     <td><b><strong>Home:</b></strong>...</td>
   </tr>
     <tr>
-    <td><b><strong>Age:</b></strong>...</td>
+    <td><b><strong>Age:</b></strong> 22</td>
   </tr>
     <tr>
     <td><b><strong>Height:</b></strong>...</td>
@@ -28,9 +28,9 @@ tags:
     <td><b><strong>Beliefs:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong>...</td>
+    <td><b><strong>Traits:</b></strong><br>- Tail<br>- Acer's Likeness<br>- Communal<br>- Cool Headed<br>- Enlarged Incisors<br>- Large Ears<br>- Skittish<br>- Victim<br>- Coat of Fur<br>- Quiet</td>
   </tr>
 </table> 
 
 # Background
-Lives in Trenton's workshop
+Lives in Pinity's workshop
