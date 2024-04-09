@@ -6,7 +6,7 @@ tags:
 
  <table>
   <tr>
-    <td rowspan="8">Image here</td>
+    <td rowspan="8"><img src="../images/rat.png" alt="Rat"></td>
     <td><b><strong>Stock:</b></strong>Roden</td>
   </tr>
   <tr>
