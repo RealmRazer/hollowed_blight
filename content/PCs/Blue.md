@@ -25,12 +25,16 @@ tags:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Beliefs:</b></strong>...</td>
-  </tr>
-   <tr>
     <td><b><strong>Traits:</b></strong><br>- Tail<br>- Acer's Likeness<br>- Communal<br>- Cool Headed<br>- Enlarged Incisors<br>- Large Ears<br>- Skittish<br>- Victim<br>- Coat of Fur<br>- Quiet</td>
   </tr>
 </table> 
 
+| Beliefs | Instincts |
+| ------- | --------- |
+| | | 
+
 # Background
 Lives in Pinity's workshop
+
+# Relationships
+* [[Cuckoo]]

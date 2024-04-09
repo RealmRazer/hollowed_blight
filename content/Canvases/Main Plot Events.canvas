@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"794a75f4ee13e7c1","x":-800,"y":-120,"width":250,"height":140,"type":"text","text":"On 23 Mutio NL 223, Blackport suffers a large scale attack out of the ordinary for the city's defense"}
+	],
 	"edges":[]
 }

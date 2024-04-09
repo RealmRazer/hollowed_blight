@@ -25,9 +25,6 @@ tags:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Beliefs:</b></strong>...</td>
-  </tr>
-   <tr>
     <td><b><strong>Traits:</b></strong>...</td>
   </tr>
 </table> 

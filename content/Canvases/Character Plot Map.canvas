@@ -1,4 +1,37 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"e4716032bef45f71","type":"text","text":"Roden thief is in the workshop","x":-500,"y":-160,"width":250,"height":140,"color":"5"},
+		{"id":"dcc3b8711a2f0f4e","type":"text","text":"Tyr accompanies Pinity in the workshop while the assault takes place","x":-500,"y":-320,"width":250,"height":100,"color":"5"},
+		{"id":"7ab1d9af32a0f7b6","type":"text","text":"The attack on Blackport\n\nChange severity depending on what beliefs are","x":-820,"y":-260,"width":250,"height":130},
+		{"id":"82e200a4ab43f39b","type":"text","text":"Thalion is earning his keep by playing for his keep at the Oak and Eagle Inn with Maxwell Blackwood","x":-500,"y":0,"width":250,"height":160,"color":"5"},
+		{"id":"144b699abe61219b","type":"text","text":"Paolo is staying in the Oak and Eagle Inn with their mercenary band","x":-500,"y":200,"width":250,"height":133,"color":"5"},
+		{"id":"38de9075ee02d3c5","type":"text","text":"Pinity is in danger, they are attack outside of the shop assisting other Dwarven travelers","x":-140,"y":-380,"width":250,"height":120,"color":"1"},
+		{"id":"158638b538f5c904","x":-140,"y":80,"width":250,"height":206,"color":"1","type":"text","text":"Spy the other captain/band from across the bar\nAttack with the brunt of the mercenaries and military"},
+		{"id":"0a4efaa785982e28","type":"text","text":"Smaller Fiends break into the shop","x":-140,"y":-220,"width":250,"height":130,"color":"1"},
+		{"id":"e9ed4bb8ac6bbfa1","type":"text","text":"Octavian is praying for safe passage of some pilgrims in the religious subdistrict","x":-500,"y":-600,"width":250,"height":120,"color":"5"},
+		{"id":"2d3286199af90e8f","type":"text","text":"People sheltering in the religious district\n\nAsking for prayer, seeking","x":-140,"y":-600,"width":250,"height":120,"color":"1"},
+		{"id":"73f976348e9436de","type":"text","text":"","x":180,"y":-630,"width":250,"height":60,"color":"3"},
+		{"id":"b16f1f202c445f78","type":"text","text":"","x":180,"y":-540,"width":250,"height":60,"color":"3"},
+		{"id":"7e47ab5a38aba65f","type":"text","text":"","x":180,"y":207,"width":250,"height":60,"color":"3"},
+		{"id":"20d4a277d497fab2","x":180,"y":123,"width":250,"height":60,"color":"3","type":"text","text":""},
+		{"id":"232bbbea95b6285b","type":"text","text":"Defend the workshop and tools","x":180,"y":-300,"width":250,"height":60,"color":"3"},
+		{"id":"3e94d5176c58ee0c","type":"text","text":"Defend Pinity from Injury\nMight need to retreat back to Otia","x":180,"y":-410,"width":250,"height":90,"color":"3"}
+	],
+	"edges":[
+		{"id":"81c52c77f07613da","fromNode":"7ab1d9af32a0f7b6","fromSide":"right","toNode":"dcc3b8711a2f0f4e","toSide":"left"},
+		{"id":"e53b984d9d3227f8","fromNode":"7ab1d9af32a0f7b6","fromSide":"right","toNode":"e4716032bef45f71","toSide":"left"},
+		{"id":"644f772c29418612","fromNode":"e4716032bef45f71","fromSide":"top","toNode":"dcc3b8711a2f0f4e","toSide":"bottom"},
+		{"id":"fedb7cddd6d8cb89","fromNode":"dcc3b8711a2f0f4e","fromSide":"right","toNode":"0a4efaa785982e28","toSide":"left"},
+		{"id":"bf2392b822c772cd","fromNode":"e4716032bef45f71","fromSide":"right","toNode":"0a4efaa785982e28","toSide":"left"},
+		{"id":"4b1f5c02744b32db","fromNode":"dcc3b8711a2f0f4e","fromSide":"right","toNode":"38de9075ee02d3c5","toSide":"left"},
+		{"id":"751e7c1ac7f0f6f6","fromNode":"7ab1d9af32a0f7b6","fromSide":"bottom","toNode":"82e200a4ab43f39b","toSide":"left"},
+		{"id":"9b1f5ffaf5301857","fromNode":"7ab1d9af32a0f7b6","fromSide":"bottom","toNode":"144b699abe61219b","toSide":"left"},
+		{"id":"04d424f1c998e0a1","fromNode":"7ab1d9af32a0f7b6","fromSide":"top","toNode":"e9ed4bb8ac6bbfa1","toSide":"left"},
+		{"id":"bc5808dbcf76080b","fromNode":"144b699abe61219b","fromSide":"right","toNode":"158638b538f5c904","toSide":"left"},
+		{"id":"c871100eb79a8f28","fromNode":"82e200a4ab43f39b","fromSide":"right","toNode":"158638b538f5c904","toSide":"left"},
+		{"id":"103a73532f5a63db","fromNode":"82e200a4ab43f39b","fromSide":"bottom","toNode":"144b699abe61219b","toSide":"top"},
+		{"id":"6e0a1e7a994c5766","fromNode":"e9ed4bb8ac6bbfa1","fromSide":"right","toNode":"2d3286199af90e8f","toSide":"left"},
+		{"id":"fd6616a4fbdffcee","fromNode":"38de9075ee02d3c5","fromSide":"right","toNode":"3e94d5176c58ee0c","toSide":"left"},
+		{"id":"44a14edd5f15d4e3","fromNode":"38de9075ee02d3c5","fromSide":"right","toNode":"232bbbea95b6285b","toSide":"left"}
+	]
 }
