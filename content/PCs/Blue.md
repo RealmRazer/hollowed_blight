@@ -1,7 +1,9 @@
 ---
-title: Blue
+title: Jeremiah
 tags:
   - players
+aliases:
+  - Jeremiah
 ---
 
  <table>
@@ -10,7 +12,7 @@ tags:
     <td><b><strong>Stock:</b></strong>Roden</td>
   </tr>
   <tr>
-    <td><b><strong>Home:</b></strong>...</td>
+    <td><b><strong>Home:</b></strong> Lou'Toonie (Racinica)</td>
   </tr>
     <tr>
     <td><b><strong>Age:</b></strong> 22</td>
@@ -31,10 +33,10 @@ tags:
 
 | Beliefs | Instincts |
 | ------- | --------- |
-| | | 
+| - Tyr's workshop is in danger of getting attacked by the recent monsters invading Blackport. I must do my best to help protect the workshop (in extension my home) while in the shadows.<br><br>- Although Blackport had been my home for the past decade, this cold ruthless city makes me long for the warmth of my rat's nest. I must find a way to clear my name with the nest's bishop and return to my family.<br><br>- Cuckoo is friend. Cuckoo must be set free| -I keep my dagger close by at all times and take it out when I sense danger.<br><br>- I always keep a light foot around others. It's best if they don't see me coming.<br><br>- I always scout any new area I go to and identify any useful items I could take. |
 
 # Background
-Lives in Pinity's workshop
+A thief living in [[Pinity Ironmountain|Pinity's]] workshop.
 
 # Relationships
 * [[Cuckoo]]

@@ -9,4 +9,3 @@ The Duke of [[Blackport]]. Alden is one of two leaders in charge of Blackport, a
 # Relationships
 * [[Connor|Thalion Emberleaf]]
 * [[Maxwell Blackwood]]
-* 

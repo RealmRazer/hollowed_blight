@@ -10,7 +10,7 @@ The world of [[Klei]] functions using a simple 6 period calendar. Each "month" o
 ## Years
 Years for the current time period are counted from the establishment of the first clerical order of [[Numera]]. The establishment of [[Numera|Numeran]] faith led to a major period of peace in [[Aboa]] and is honored throughout [[Klei]]. To denote the time period, any numerical representation of the year is preceded by the abbreviation "NL", New Light, for the new journey's beginnings.
 
-The year at the start of _[[content/index|The Hollowed Blight]]_ is NL 223.
+The year at the start of _[[conteindex|The Hollowed Blight]]_ is NL 223.
 
 ## Months
 Months reflect the original tenets of [[Numera]]. Each "year" under the calendar is a reflection of a full pilgrimage that might have been taken by early acolytes. As such, the months symbolize the completion of a full journey and the start of a new one. In order, a year is broken down as:

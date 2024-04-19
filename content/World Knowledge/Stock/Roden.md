@@ -14,7 +14,8 @@ Those Below no longer have [[Magic|faith]]. What remain are bitterness, conspira
 
 
 ## Places of Influence
-
+* [[Aboa]]
+* [[Racinica]]
 
 ## Faith and Sorcery
 The [[magic]] of roden.

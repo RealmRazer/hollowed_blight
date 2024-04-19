@@ -16,6 +16,8 @@ _Surroundings_: Sitting at the edge of [[The Ash]], Blackport is a unique vista.
 1.  _The [[Obsidian Fortress]]_
 2.  _[[Horlstock's Gate]]_
 3.  _The Beacon Tower_: Situated on the highest point of the city, the Beacon Tower serves as a warning system. A large brazier sits atop it, ready to be lit to alert the kingdom of [[Pinem]] of any impending threats.
+4. [[Murcurio's Marvels]]
+5. [[Oak and Eagle Inn]]
 
 ## Important People or Places
 1.  _The [[Ironwood Guild]]_: A group of elite mercenaries known for their exceptional combat prowess, they have made Blackport their headquarters. Led by Captain Aldric Ironwood, they are often hired by the kingdom to undertake dangerous missions beyond [[The Ash]].

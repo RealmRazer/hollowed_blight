@@ -2,6 +2,7 @@
 title: Thomas
 tags:
   - players
+draft: true
 ---
 
  <table>

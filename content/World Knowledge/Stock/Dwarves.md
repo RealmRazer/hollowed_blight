@@ -18,8 +18,7 @@ Going down in rarity determines a lesser status
 
 
 ## Places of Influence
-
+* [[Otia]]
 
 ### Dwarvish Greed
 The [[magic]] of dwarves.
-

@@ -14,7 +14,7 @@ Nor are Elves above the common struggle. They are as complex and internecine as 
 
 
 ## Places of Influence
-
+* [[Pramos]]
 
 ## Elven Song
 The [[magic]] of elves.

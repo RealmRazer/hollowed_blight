@@ -14,7 +14,9 @@ The interconnectivity of humans has made exchanges between the different stock m
 Human culture is diverse, a single person's mannerism and beliefs can be largely dependent on their place of birth and rest.
 
 ## Places of Influence
-
+* [[Racinica]]
+* [[Aboa]]
+* [[Trord]]
 
 ## Faith and Sorcery
 The [[magic]] of humans.
