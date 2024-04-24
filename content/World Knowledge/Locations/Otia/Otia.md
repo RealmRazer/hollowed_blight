@@ -16,3 +16,4 @@ The continent is a hub of craftsmanship and industry, with bustling cities and b
 
 ## Major Locations
 1. [[Bharn Darom]]
+2. [[Emeraldcrag]]

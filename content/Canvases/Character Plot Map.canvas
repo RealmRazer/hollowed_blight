@@ -10,13 +10,22 @@
 		{"id":"0a4efaa785982e28","type":"text","text":"Smaller Fiends break into the shop","x":-140,"y":-220,"width":250,"height":130,"color":"1"},
 		{"id":"e9ed4bb8ac6bbfa1","type":"text","text":"Octavian is praying for safe passage of some pilgrims in the religious subdistrict","x":-500,"y":-600,"width":250,"height":120,"color":"5"},
 		{"id":"2d3286199af90e8f","type":"text","text":"People sheltering in the religious district\n\nAsking for prayer, seeking","x":-140,"y":-600,"width":250,"height":120,"color":"1"},
-		{"id":"73f976348e9436de","type":"text","text":"Assist the commoners coming inside the church","x":180,"y":-630,"width":250,"height":60,"color":"3"},
-		{"id":"b16f1f202c445f78","type":"text","text":"Move to the noble quarter for some recognition","x":180,"y":-540,"width":250,"height":60,"color":"3"},
-		{"id":"20d4a277d497fab2","type":"text","text":"","x":180,"y":123,"width":250,"height":60,"color":"3"},
-		{"id":"232bbbea95b6285b","type":"text","text":"Defend the workshop and tools","x":180,"y":-300,"width":250,"height":60,"color":"3"},
-		{"id":"3e94d5176c58ee0c","type":"text","text":"Defend Pinity from Injury\nMight need to retreat back to Otia","x":180,"y":-410,"width":250,"height":90,"color":"3"},
-		{"id":"8ad79945ea5ae57f","type":"text","text":"Destruction around Murcurio's district","x":180,"y":-160,"width":250,"height":70,"color":"3"},
-		{"id":"7e47ab5a38aba65f","type":"text","text":"","x":180,"y":200,"width":250,"height":60,"color":"3"}
+		{"id":"73f976348e9436de","type":"text","text":"Assist the commoners coming inside the church","x":180,"y":-630,"width":250,"height":60,"color":"4"},
+		{"id":"b16f1f202c445f78","type":"text","text":"Move to the merchant quarter for some recognition","x":180,"y":-540,"width":250,"height":60},
+		{"id":"20d4a277d497fab2","type":"text","text":"Other mercenaries move to gain some fame from defending the tavern","x":180,"y":100,"width":250,"height":83,"color":"4"},
+		{"id":"232bbbea95b6285b","type":"text","text":"Defend the workshop and tools","x":180,"y":-300,"width":250,"height":60},
+		{"id":"3e94d5176c58ee0c","type":"text","text":"Defend Pinity from Injury\nMight need to retreat back to Otia","x":180,"y":-410,"width":250,"height":90,"color":"4"},
+		{"id":"8ad79945ea5ae57f","type":"text","text":"Destruction around Murcurio's district","x":180,"y":-160,"width":250,"height":70,"color":"4"},
+		{"id":"7e47ab5a38aba65f","type":"text","text":"Bar starts to become a bastion of safety","x":180,"y":200,"width":250,"height":67},
+		{"id":"165b168e61e266c3","type":"text","text":"Monsters are attempting to raid the merchant quarter\n\nSome oddity has been stolen","x":-500,"y":500,"width":250,"height":160,"color":"2"},
+		{"id":"02d1af12400cb8ee","type":"text","text":"Secure Cuckoo and Mucruios","x":500,"y":-190,"width":250,"height":60},
+		{"id":"ed4396bcd7b42471","type":"text","text":"Attempt to break Cuckoo out in the chaos","x":500,"y":-120,"width":250,"height":60,"color":"4"},
+		{"id":"836f2caadf423651","type":"text","text":"Attempt to stop further damage or attack what comes down the way","x":500,"y":-320,"width":250,"height":100},
+		{"id":"0cae08797100d155","type":"text","text":"Follows Pinity out to the merchant's quarter","x":500,"y":-395,"width":250,"height":60,"color":"4"},
+		{"id":"dfb22e64810a605f","type":"text","text":"Move towards the merchant client","x":500,"y":70,"width":250,"height":60},
+		{"id":"f059d3511f952146","type":"text","text":"Move towards the fortress to defend the Duke","x":500,"y":142,"width":250,"height":58,"color":"4"},
+		{"id":"9ae6deca2360bb2c","type":"text","text":"Setup some defense around the church","x":500,"y":-630,"width":250,"height":60,"color":"4"},
+		{"id":"4350c0b3b065be00","type":"text","text":"Follows Pinity out to the merchant's quarter","x":980,"y":-540,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"81c52c77f07613da","fromNode":"7ab1d9af32a0f7b6","fromSide":"right","toNode":"dcc3b8711a2f0f4e","toSide":"left"},
@@ -39,6 +48,17 @@
 		{"id":"075476e42ffeb4f4","fromNode":"158638b538f5c904","fromSide":"right","toNode":"20d4a277d497fab2","toSide":"left"},
 		{"id":"bebd2815fc34c9ac","fromNode":"158638b538f5c904","fromSide":"right","toNode":"7e47ab5a38aba65f","toSide":"left"},
 		{"id":"ff70243bc85fcbc0","fromNode":"2d3286199af90e8f","fromSide":"right","toNode":"73f976348e9436de","toSide":"left"},
-		{"id":"a2ef7ee2c8bcea5f","fromNode":"2d3286199af90e8f","fromSide":"right","toNode":"b16f1f202c445f78","toSide":"left"}
+		{"id":"a2ef7ee2c8bcea5f","fromNode":"2d3286199af90e8f","fromSide":"right","toNode":"b16f1f202c445f78","toSide":"left"},
+		{"id":"88550090e28fa913","fromNode":"7ab1d9af32a0f7b6","fromSide":"bottom","toNode":"165b168e61e266c3","toSide":"left"},
+		{"id":"5279fa32d158df9c","fromNode":"8ad79945ea5ae57f","fromSide":"right","toNode":"02d1af12400cb8ee","toSide":"left"},
+		{"id":"0c656975e865cdef","fromNode":"8ad79945ea5ae57f","fromSide":"right","toNode":"ed4396bcd7b42471","toSide":"left"},
+		{"id":"cbb58f188b8ccb8a","fromNode":"3e94d5176c58ee0c","fromSide":"right","toNode":"0cae08797100d155","toSide":"left"},
+		{"id":"6fdf75e340fb6903","fromNode":"232bbbea95b6285b","fromSide":"right","toNode":"836f2caadf423651","toSide":"left"},
+		{"id":"105bf2c8f5a22cc3","fromNode":"20d4a277d497fab2","fromSide":"right","toNode":"dfb22e64810a605f","toSide":"left"},
+		{"id":"1272daa68b32c218","fromNode":"20d4a277d497fab2","fromSide":"right","toNode":"f059d3511f952146","toSide":"left"},
+		{"id":"fc8356addf4a9d78","fromNode":"73f976348e9436de","fromSide":"right","toNode":"9ae6deca2360bb2c","toSide":"left"},
+		{"id":"7f858e6576548dbd","fromNode":"dfb22e64810a605f","fromSide":"right","toNode":"4350c0b3b065be00","toSide":"left"},
+		{"id":"dc5a89457bcebd20","fromNode":"0cae08797100d155","fromSide":"right","toNode":"4350c0b3b065be00","toSide":"left"},
+		{"id":"9fe195658057f427","fromNode":"b16f1f202c445f78","fromSide":"right","toNode":"4350c0b3b065be00","toSide":"left"}
 	]
 }

@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 # Description
-Lest common of all the stock on [[Klei]] are the Beastfolk. Taking on humanoid incarnations of myriad animals, Beastfolk are a rare intermixing of both magic and sentience. No clear information is known about how they come into existence but they generally wander the planes alone carving out a living as diviner of the land, but have been known to join small communities of [[Roden]].
+Least common of all the stock on [[Klei]] are the Beastfolk; humanoid incarnations of the myriad animals, Beastfolk are a rare intermixing of both magic and sentience. No clear information is known about how they come into existence but they generally wander the planes alone carving out a living as diviner of the land, but have been known to join small communities of [[Roden]].
 
 Though similar in animalistic qualities, and confused by those without knowledge, [[Roden]] differ from Beastfolk in their life and qualities. Beastfolk are an after effect of some magic gone awry. Beastfolk cannot repopulate and after their life is expanded, there is no guarantee such a creature will reappear. [[Roden]] are natural creature, with a society, culture, and natural order like [[Humans]], [[Elves]], [[Dwarves]], and other stock.
 
