@@ -3,6 +3,9 @@ title: Cor Devlin
 tags:
   - players
 draft: false
+aliases:
+  - Cor
+  - Cor Devlin
 ---
 
  <table>

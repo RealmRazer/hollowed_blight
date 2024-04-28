@@ -5,6 +5,8 @@ tags:
 aliases:
   - monsters
   - abberations
+  - monster
+  - fiend
 ---
 
 # Description
