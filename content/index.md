@@ -1,6 +1,8 @@
 ---
 title: Hollowed Blight
 ---
-**Current Date**: Mutio 23, NL 223
+**Current Date**: Mutio 24, NL 223
 
-Night has come to [[Blackport]], and with it came the [[Fiends]]. [[Horlstock's Gate]] has been breached by a [[Fiends|monster]] of old age and power, all while the city stays eerily silent. Seeing to their tasks at the end of the day, the #players respond to the new threat, each seeking their own priorities. Time marches forward.
+Hammer to steel. A song in the court. Lost travelers darting through the streets. A light piercing the dark.
+
+The #players stress to the leader of [[Blackport]] on the depth of the terror in play. All the while, some brave few make their way to secure the people from the danger they face, assisting those who are doing their part.
