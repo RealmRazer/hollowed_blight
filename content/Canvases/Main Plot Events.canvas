@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"794a75f4ee13e7c1","type":"text","text":"On 23 Mutio NL 223, Blackport suffers a large scale attack out of the ordinary for the city's defense","x":-1540,"y":-160,"width":250,"height":140}
+		{"id":"794a75f4ee13e7c1","type":"text","text":"On 23 Mutio NL 223, Blackport suffers a large scale attack out of the ordinary for the city's defense","x":-2260,"y":-120,"width":250,"height":140},
+		{"id":"e21f4fd2381c7f11","type":"text","text":"The Arm of the King reclaims a number or lost treasure in the city for it's own purpose\n\n* Lives are lost in the city\n* Count Tamrin is coming to the city\n* Baldrick is injured but a hero\n* Monitors are dispatched due to the irregular attacks\n* Murcurio awakens in the workshop\n* Pinity is lost at the moment. Not injured\n* Octavian is well regarded","x":-1920,"y":-338,"width":250,"height":577}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"64bfa9b38d2f4966","fromNode":"794a75f4ee13e7c1","fromSide":"right","toNode":"e21f4fd2381c7f11","toSide":"left"}
+	]
 }

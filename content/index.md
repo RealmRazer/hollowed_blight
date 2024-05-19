@@ -3,4 +3,6 @@ title: Hollowed Blight
 ---
 **Current Date**: Mutio 24, NL 223
 
-The fortress shines with the coming of [[Adam|Father Octavian]], and the #players trek back into the city to secure their home. All the while [[Connor|Thalion]] ventures north, ever closer to the sight he saw in the first moments of night.
+The storm has subsided and morning finally comes for the #players. The [[Fiends]] attack the city have retreated and the [[Obsidian Fortress]] shines as a bastion of safety where many of the populace retreated.
+
+Dawn breaks. [[Blackport]] stands. Scarred, but standing.
