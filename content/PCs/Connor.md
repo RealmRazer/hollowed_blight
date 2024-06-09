@@ -28,7 +28,7 @@ aliases:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong><br>- Born Under the Silver Stars<br>- Fair and Statuesque<br>- Flatterer<br>- Voice in the Crowd<br>- Essence of the Earth<br>- First Born<br>- Grief<br>- Keen Sight<br>- World Weary</td>
+    <td><b><strong>Traits:</b></strong><br>- Born Under the Silver Stars<br>- Fair and Statuesque<br>- Flatterer<br>- Voice in the Crowd<br>- Essence of the Earth<br>- First Born<br>- Grief<br>- Keen Sight<br>- World Weary<br>- Booming Voice<br>- Perfect Pitch</td>
   </tr>
 </table> 
 

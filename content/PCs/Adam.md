@@ -29,7 +29,7 @@ aliases:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong><br> - Imperious Demeanor<br>- Faithful<br>- Mark of Privilege<br>- Tonsured<br>- Vested</td>
+    <td><b><strong>Traits:</b></strong><br> - Imperious Demeanor<br>- Faithful<br>- Mark of Privilege<br>- Tonsured<br>- Vested<br>- Alms-Taker<br>- Charismatic<br>- Glib</td>
   </tr>
 </table> 
 

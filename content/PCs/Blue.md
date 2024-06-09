@@ -27,7 +27,7 @@ aliases:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong><br>- Tail<br>- Acer's Likeness<br>- Communal<br>- Cool Headed<br>- Enlarged Incisors<br>- Large Ears<br>- Skittish<br>- Victim<br>- Coat of Fur<br>- Quiet</td>
+    <td><b><strong>Traits:</b></strong><br>- Tail<br>- Acer's Likeness<br>- Communal<br>- Cool Headed<br>- Enlarged Incisors<br>- Large Ears<br>- Skittish<br>- Victim<br>- Coat of Fur<br>- Quiet<br>- Tail<br>- Soft Step<br>- Pouched Cheeks</td>
   </tr>
 </table> 
 

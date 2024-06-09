@@ -29,7 +29,7 @@ aliases:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong><br>- Always in the Way<br>- Marked by Lady Fortuna<br>- Misunderstood<br>- Gifted<br>- Impressive Hat<br>- Low Born</td>
+    <td><b><strong>Traits:</b></strong><br>- Always in the Way<br>- Marked by Lady Fortuna<br>- Misunderstood<br>- Gifted<br>- Impressive Hat<br>- Low Born<br>- Oddly Likable<br>- Tall Tale Teller</td>
   </tr>
 </table> 
 
