@@ -3,6 +3,6 @@ title: Hollowed Blight
 ---
 **Current Date**: Mutio 24, NL 223
 
-The storm has subsided and morning finally comes for the #players. The [[Fiends]] attacking the city have retreated and the [[Obsidian Fortress]] shines as a bastion of safety where many of the populace retreated.
+The people of [[Blackport]] face the morning after emerging from the [[Obsidian Fortress]]. The #players move about the city, checking in on what remains of theirs homes and loved ones. As the days draws to noon, soldiers are heard entering from the south gate.
 
-Dawn breaks. [[Blackport]] stands. Scarred, but standing.
+[[Vestera Tamrin|Count Tamrin]] has come to meet with [[Alden Blackwood]].
