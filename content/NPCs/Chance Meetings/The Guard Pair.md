@@ -1,5 +1,5 @@
 ---
-title: Balda & Thony
+title: Edgar & Binny
 tags:
   - npc
 aliases: 
