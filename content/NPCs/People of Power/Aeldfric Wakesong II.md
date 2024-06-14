@@ -2,7 +2,8 @@
 title: Aeldfric Wakesong II
 tags:
   - npc
-aliases:
+aliases: 
+draft: true
 ---
 # Background
 

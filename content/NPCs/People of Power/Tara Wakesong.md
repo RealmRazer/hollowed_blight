@@ -2,7 +2,8 @@
 title: Tara Wakesong
 tags:
   - npc
-aliases:
+aliases: 
+draft: true
 ---
 # Background
 

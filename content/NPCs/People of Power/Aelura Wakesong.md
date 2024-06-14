@@ -2,7 +2,8 @@
 title: Aelura Wakesong
 tags:
   - npc
-aliases:
+aliases: 
+draft: true
 ---
 # Background
 
