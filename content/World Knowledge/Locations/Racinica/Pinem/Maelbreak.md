@@ -20,5 +20,4 @@ _Surroundings_:
 2. _The Maelbreak Lighthouse_: Standing tall at the edge of the harbor is the Maelbreak Lighthouse, a beacon of hope and guidance for sailors navigating the treacherous waters of the coastline. Its towering spire casts a brilliant light across the sea, guiding ships safely to port and warding off the dangers of the rocky shore.
 
 ## Important People or Places
-
 1.  

@@ -1,5 +1,5 @@
 ---
-title: Vestin Tamrin
+title: Kethic Tamrin
 tags:
   - npc
 aliases:

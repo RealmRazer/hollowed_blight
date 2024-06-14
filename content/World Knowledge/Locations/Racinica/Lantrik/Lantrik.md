@@ -11,5 +11,4 @@ Lantrik boasts a diverse range of landscapes, from verdant forests and rolling h
 The people of Lantrik are deeply devout, their lives shaped by the teachings of their chosen deities and the rituals of their faith. Temples and shrines dot the countryside, serving as centers of worship and spiritual guidance for the kingdom's inhabitants.
 
 ## Major Locations
-
 1. [[Baroux]]
