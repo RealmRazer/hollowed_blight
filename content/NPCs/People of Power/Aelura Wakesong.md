@@ -5,6 +5,8 @@ tags:
 aliases: 
 draft: true
 ---
+
+![[aelura.png]]
 # Background
 
 
