@@ -2,6 +2,8 @@
 title: Ferolda Ironmountain
 tags:
   - npc
+aliases:
+  - Fredola
 ---
 ![[Fredola.png]]
 # Background

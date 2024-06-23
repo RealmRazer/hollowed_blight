@@ -2,6 +2,7 @@
 title: Fiends
 tags:
   - creatures
+  - fiend
 aliases:
   - monsters
   - abberations

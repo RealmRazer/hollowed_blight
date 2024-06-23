@@ -6,8 +6,8 @@ aliases:
 cssclasses:
 ---
 <p>
-    <img src="../../images/soldier_1.png" width="325" height="500">
-    <img src="../../images/soldier_2.png" width="325" height="500">
+    <img src="../../images/soldier_1.png" width="325" height="428">
+    <img src="../../images/soldier_2.png" width="325" height="428">
 </p>
 
 # Background

@@ -1,8 +1,8 @@
 ---
 title: Hollowed Blight
 ---
-**Current Date**: Mutio 24, NL 223
+ **Current Date**: Mutio 24, NL 223
 
-The people of [[Blackport]] face the morning after emerging from the [[Obsidian Fortress]]. The #players move about the city, checking in on what remains of theirs homes and loved ones. As the days draws to noon, soldiers are heard entering from the south gate.
+News spreads across the city as [[Kethic Tamrin|Count Tamrin]] meets with [[Alden Blackwood|Duke Alden]] in the [[Obsidian Fortress]]. Meanwhile, the #players scramble across the city gathering information about strange relics and artifacts that were stolen away in the night by [[Fiends]].
 
-[[Kethic Tamrin|Count Tamrin]] has come to meet with [[Alden Blackwood]].
+Colossal threats loom, doors are closing, and dinner is served.

@@ -2,6 +2,8 @@
 title: Pinity Ironmountain
 tags:
   - npc
+aliases:
+  - Pinity
 ---
 ![[Pinity.png]]
 # Background

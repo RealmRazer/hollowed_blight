@@ -2,6 +2,8 @@
 title: Casmira Hill
 tags:
   - npc
+aliases:
+  - Casmira
 ---
 
 ![[Casmira.png]]
