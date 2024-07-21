@@ -2,7 +2,6 @@
 title: Hollowed Blight
 ---
  **Current Date**: Tulmuus 29, NL 223
+After 1 month of practice and preparation. The expedition into [[The Ash]] takes place in earnest. [[Alex|Paolo]] recruits a new guide in [[Zola Pending]] and Sand Skiff, provided by [[Alden Blackwood|Duke Alden]] becomes the main transport for the journey.
 
-News spreads across the city as [[Kethic Tamrin|Count Tamrin]] meets with [[Alden Blackwood|Duke Alden]] in the [[Obsidian Fortress]]. Meanwhile, the #players scramble across the city gathering information about strange relics and artifacts that were stolen away in the night by [[Fiends]].
-
-Colossal threats loom, doors are closing, and dinner is served.
+The #players leave [[Blackport]] behind, but are forced to ride headlong into new dangers.
