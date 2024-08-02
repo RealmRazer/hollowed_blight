@@ -191,7 +191,6 @@ export function renderPage(
     afterBody,
     left,
     right,
-    afterBody,
     footer: Footer,
   } = components
   const Header = HeaderConstructor()
