@@ -5,7 +5,6 @@ tags:
 ---
 ![[Spearslammer.webp]]
 # Background
-
 [[The Great Hunt]]
 
 # Relationships
