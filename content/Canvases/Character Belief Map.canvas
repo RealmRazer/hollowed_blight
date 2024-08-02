@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"9b152554d7d67cf7","type":"file","file":"content/PCs/Thomas.md","x":360,"y":1119,"width":400,"height":400,"color":"3"},
+		{"id":"b39463115ec5264c","type":"file","file":"content/PCs/Blue.md","x":360,"y":599,"width":400,"height":400,"color":"3"},
+		{"id":"6814c3a6384edc8e","type":"file","file":"content/PCs/Trenton.md","x":360,"y":119,"width":400,"height":400,"color":"3"},
+		{"id":"dd806b213ded4ae1","type":"file","file":"content/PCs/Alex.md","x":360,"y":-401,"width":400,"height":400,"color":"3"},
+		{"id":"16da781df9b099f5","type":"file","file":"content/PCs/Adam.md","x":360,"y":-921,"width":400,"height":400,"color":"3"},
+		{"id":"86208a96a63b139f","type":"file","file":"content/PCs/Connor.md","x":360,"y":-1441,"width":400,"height":420,"color":"3"},
+		{"id":"46606728a145b17f","type":"text","text":"Become Bishop","x":840,"y":-921,"width":250,"height":60},
+		{"id":"82f9a8b5237976e0","type":"text","text":"Gain Knowledge of Artifacts","x":840,"y":-620,"width":250,"height":60},
+		{"id":"c0161a8cab1c5e26","type":"text","text":"Create the Greatest Pirate Band","x":840,"y":-380,"width":250,"height":81},
+		{"id":"ea042e51a8e99b5c","type":"text","text":"Alleviate \"grief\"","x":840,"y":-1420,"width":250,"height":60},
+		{"id":"2e3edafd2fe74138","type":"text","text":"Collect Information on Relic","x":840,"y":-1100,"width":250,"height":60},
+		{"id":"afb9a61ff0230d6a","type":"text","text":"Protect those who treat me well","x":840,"y":-1261,"width":250,"height":60},
+		{"id":"2af9b22ea2880938","type":"text","text":"Find Pinity","x":840,"y":160,"width":250,"height":60},
+		{"id":"a0d5ef1c7dc8a463","type":"text","text":"Craft a Masterwork","x":840,"y":289,"width":250,"height":60},
+		{"id":"85ff1d65780bd16d","type":"text","text":"Gain Political Power","x":840,"y":440,"width":250,"height":60},
+		{"id":"c5de280d84c70ffe","type":"text","text":"Secure the backing of someone powerful","x":840,"y":640,"width":250,"height":60},
+		{"id":"b36a9274867cee41","type":"text","text":"Get back to Lou'Toonie","x":840,"y":898,"width":250,"height":60},
+		{"id":"ceb825a22791da9f","type":"text","text":"Help others during the expedition","x":840,"y":1119,"width":250,"height":60},
+		{"id":"9530e08eba0a1d41","type":"text","text":"Cursed by a spirit of Fortune","x":840,"y":1394,"width":250,"height":60},
+		{"id":"2b87c6cbeba6eba8","type":"text","text":"Show valuables in the orcish camp\n\nShow some scavenged documents and valuables in the camp","x":1200,"y":700,"width":250,"height":198,"color":"1"},
+		{"id":"b9aea28c5ad25500","type":"text","text":"","x":1200,"y":1179,"width":250,"height":215,"color":"1"},
+		{"id":"acba16cfc970dda1","x":1200,"y":106,"width":250,"height":169,"color":"1","type":"text","text":"Pull the current expedition away from it's objectives\n\nCause questions about what Pinity is truly looking for"},
+		{"id":"4892385a6257c253","type":"text","text":"Endanger the expedition\n\nCause questions in judgement between the safety of the crew and the mission","x":1200,"y":-431,"width":250,"height":184,"color":"1"}
+	],
+	"edges":[
+		{"id":"dfed7bed8a695ba1","fromNode":"dd806b213ded4ae1","fromSide":"right","toNode":"c0161a8cab1c5e26","toSide":"left"},
+		{"id":"ff729e674b9e1a71","fromNode":"16da781df9b099f5","fromSide":"right","toNode":"82f9a8b5237976e0","toSide":"left"},
+		{"id":"7d074cb8d74cd887","fromNode":"16da781df9b099f5","fromSide":"right","toNode":"46606728a145b17f","toSide":"left"},
+		{"id":"dc662a1b7532788d","fromNode":"9b152554d7d67cf7","fromSide":"right","toNode":"ceb825a22791da9f","toSide":"left"},
+		{"id":"995dd4c44839d816","fromNode":"9b152554d7d67cf7","fromSide":"right","toNode":"9530e08eba0a1d41","toSide":"left"},
+		{"id":"a289a745b9613740","fromNode":"b39463115ec5264c","fromSide":"right","toNode":"c5de280d84c70ffe","toSide":"left"},
+		{"id":"a6487b36451f4db8","fromNode":"b39463115ec5264c","fromSide":"right","toNode":"b36a9274867cee41","toSide":"left"},
+		{"id":"ac5f9cf61123f904","fromNode":"6814c3a6384edc8e","fromSide":"right","toNode":"2af9b22ea2880938","toSide":"left"},
+		{"id":"471cdbae5f42ec21","fromNode":"6814c3a6384edc8e","fromSide":"right","toNode":"a0d5ef1c7dc8a463","toSide":"left"},
+		{"id":"d62a72cf1a6d0836","fromNode":"6814c3a6384edc8e","fromSide":"right","toNode":"85ff1d65780bd16d","toSide":"left"},
+		{"id":"a50b5686f9ba318a","fromNode":"86208a96a63b139f","fromSide":"right","toNode":"2e3edafd2fe74138","toSide":"left"},
+		{"id":"57f188d91a7ba81a","fromNode":"86208a96a63b139f","fromSide":"right","toNode":"ea042e51a8e99b5c","toSide":"left"},
+		{"id":"78eda07359f450d5","fromNode":"86208a96a63b139f","fromSide":"right","toNode":"afb9a61ff0230d6a","toSide":"left"}
+	]
+}
