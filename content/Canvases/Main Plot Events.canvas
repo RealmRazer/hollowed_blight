@@ -8,7 +8,7 @@
 		{"id":"4cba4f237f445217","type":"text","text":"Mostly tamed situation","x":-1340,"y":-244,"width":250,"height":60},
 		{"id":"abe18b199a5c67a4","type":"text","text":"Encounter the Orc Band","x":-620,"y":-61,"width":250,"height":60},
 		{"id":"d47980905455d930","type":"text","text":"Orcs are culling fiends encroaching on their lands during \"The Hunt\"\n\nFiend activity and coordination has increased leading to losses and issues\n\nEncounters the party before more fiends can be called","x":-280,"y":-360,"width":250,"height":329,"color":"1"},
-		{"id":"efac737839fdb62d","type":"file","file":"content/NPCs/Chance Meetings/Orc.md","x":-695,"y":347,"width":400,"height":400,"color":"4"},
+		{"id":"efac737839fdb62d","type":"file","file":"content/NPCs/Chance Meetings/Orc War Chief.md","x":-695,"y":347,"width":400,"height":400,"color":"4"},
 		{"id":"1aabed8436e8fb6b","type":"text","text":"Pinity enocunters the Orcs:\n* Traveled with them for a time going east\n* Fashions a ramshackle forge and fire and that standing in the center of the  camp\n* Creates some simple weapons and arms for the war band\n* Continues travelling east","x":-280,"y":20,"width":250,"height":440,"color":"1"},
 		{"id":"b9226d1b9f36705c","type":"text","text":"The War Camp","x":388,"y":-520,"width":250,"height":60},
 		{"id":"cdff3aa42a9fea33","type":"text","text":"* Orcs are in a state of despair due to the increased encounters in The Hunt\n* Signs of Pinity are Scarce after they left for the east\n* The camp is filled with reclaimed goods from others who died in The Ash\n* ","x":388,"y":-441,"width":250,"height":880,"color":"3"},

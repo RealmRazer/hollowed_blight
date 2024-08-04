@@ -5,6 +5,6 @@ tags:
 aliases: 
 draft: true
 ---
-![[]]
+![[fiiish.png]]
 # Description
 Scale Fish

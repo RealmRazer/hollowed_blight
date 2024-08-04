@@ -5,6 +5,7 @@ tags:
   - stock
 aliases:
 ---
+![[Orcs-&-Goblins.jpg]]
 # Description
 Twisted, tortured and fulgent with [[Magic|hate]], these cousins of the [[Elves]] exist in a culture that is a cruel mockery of civilization—one of fear and brutality, a society of the whip.
 
