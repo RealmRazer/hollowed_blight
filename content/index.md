@@ -11,6 +11,24 @@ In a bid of truce to prevent any issues from flaring up, [[Trenton|Tyr]] elects 
 
 ```html
 <!--TIMELINE BEGIN tags='recap'-->
-
-<<div xmlns="http://www.w3.org/1999/xhtml"><div class="timeline"><div class="timeline-container timeline-left" timeline-date="00223-00003-00023-00001" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="content/History/Attack on Blackport.md">Attack on Blackport</a></h3></article><p>Blackport is assaulted by Fiends at the command of an ancient Archdemon</p></div></div><h2 style="text-align: left;">223-3-23-1</h2></div></div><div class="timeline-rendered">Tue Aug 06 2024 23:41:45 GMT-0400 (Eastern Daylight Time)</div></div>-TIMELINE END-->
+<div xmlns="http://www.w3.org/1999/xhtml">
+<div class="timeline">
+<div class="timeline-container timeline-left" timeline-date="00223-00003-00023-00001" collapsed="false" style="--timeline-indent: 0;">
+<div class="timeline-event-list" style="display: block">
+<div class="timeline-card">
+<article>
+<h3>
+<a class="internal-link" href="content/History/Attack on Blackport.md">Attack on Blackport
+</a>
+</h3>
+</article>
+<p>Blackport is assaulted by Fiends at the command of an ancient Archdemon</p></div>
+</div>
+<h2 style="text-align: left;">223-3-23-1</h2>
+</div>
+</div>
+<div class="timeline-rendered">Tue Aug 06 2024 23:48:28 GMT-0400 (Eastern Daylight Time)
+</div>
+</div>
+<!--TIMELINE END-->
 ```
