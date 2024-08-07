@@ -3,7 +3,7 @@ title: Timeline
 tags:
   - knowledge
 aliases: 
-draft: false
+draft: true
 ---
 
 ```ob-timeline
