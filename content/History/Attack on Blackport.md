@@ -17,6 +17,6 @@ Throughout the event, the #players spend the night attempting to check in on var
 <div class="ob-timelines"
 	data-title="Attack on Blackport"
 	data-description="Blackport is assaulted by Fiends at the command of an ancient Archdemon"
-	data-start-date="223-03-23"
+	data-start-date="223-03-23-00"
 	data-era="NL">
 </div>
