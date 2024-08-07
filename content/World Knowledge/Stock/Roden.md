@@ -11,6 +11,7 @@ All Field Roden are brought up with a great respect for [[Aecer]]. Piety is the 
 
 Those Below no longer have [[Magic|faith]]. What remain are bitterness, conspiracy and doubt, along with empty souls. They blame [[Aecer]] for their misery and wretched condition. Contrary to the beliefs of the Society, those Below blame her for committing them to a vision that they never had a chance of completing.
 
+Often called Rat as a derogatory term.
 ## Culture
 
 
