@@ -7,6 +7,7 @@ tags:
 aliases: 
 draft: true
 ---
+![[9042a3705618aadf3642822622668cd9.jpg]]
 # Synopsis
 
 

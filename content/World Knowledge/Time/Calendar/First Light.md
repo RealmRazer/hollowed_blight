@@ -10,7 +10,7 @@ draft: true
 
 <div class="ob-timelines"
 	data-title="First Light"
-	data-start-date="-3000-1-1"
+	data-start-date="-100000-1-1"
 	data-end-date="000-1-2"
 	data-color="orange"
 	data-type="background"

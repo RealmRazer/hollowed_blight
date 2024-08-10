@@ -12,7 +12,3 @@ type=flat
 startDate=-10000
 endDate=1000
 ```
-
-```ob-timeline
-tags=event
-```
