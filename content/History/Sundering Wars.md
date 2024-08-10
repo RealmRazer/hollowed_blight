@@ -3,7 +3,7 @@ title: Sundering Wars
 tags:
   - event
 aliases: 
-draft: true
+draft: false
 ---
 # Synopsis
 

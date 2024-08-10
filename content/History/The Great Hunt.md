@@ -5,13 +5,13 @@ tags:
   - timeline
   - recap
 aliases: 
-draft: true
+draft: false
 ---
+![[9042a3705618aadf3642822622668cd9.jpg]]
 # Synopsis
-
-
+After surviving the [[Attack on Blackport]], six residents of [[Blackport]] set out on an expedition into [[The Ash]]. After a tumultuous start, the party runs afoul of a band of [[Orcs]], led by an [[Orc War Chief]].
 # Events
-
+* 
 
 <div class="ob-timelines"
 	data-title="The Great Hunt"
