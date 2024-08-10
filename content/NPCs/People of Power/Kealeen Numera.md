@@ -5,9 +5,9 @@ tags:
 aliases: 
 draft: true
 ---
-![[aelfric.png]]
+![[il_570xN.4986749102_cgkd.webp]]
 # Background
-The current ruler of [[Pinem]]. He resides in [[Cathoras Castle]] inside [[Maelbreak]]. He is to be succeeded by the prince and princess of [[Pinem]], [[Aelura Wakesong]] or [[Aelura Wakesong]].
+
 
 # Relationships
 * 

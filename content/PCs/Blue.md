@@ -36,7 +36,7 @@ aliases:
 | - Cuckoo any I won't fare well by ourselves around the giant beasts roaming the city. I must secure the help of someone powerful or a group to join forces with for me and Cuckoo.<br><br>- Cuckoo is free to roam but too still indebted to Murcurio, I must find a way to let him walk free after the city quiets down.<br><br>- GET HOME<br>- StEal MoAr SanDVichEz | -I keep my dagger close by at all times and take it out when I sense danger.<br><br>- I always keep a light foot around others. It's best if they don't see me coming.<br><br>- I always scout any new area I go to and identify any useful items I could take. |
 
 # Background
-A thief living in [[Pinity Ironmountain|Pinity's]] workshop.
+An exiled thief living in [[Pinity Ironmountain|Pinity's]] workshop looking for a way back home for him and his friend.
 
 # Relationships
 * [[Cuckoo]]

@@ -21,3 +21,14 @@ Throughout the event, the #players spend the night attempting to check in on var
 	data-start-date="223-03-23-00"
 	data-era="NL">
 </div>
+* An unknown number of Demonic Ritual Stones are stolen from the city
+* [[Pinity Ironmountain|Pinity]] disappears into [[The Ash]]
+* [[Adam|Father Octavian]] defends the city against the lesser [[Fiends|fiends]] assaulting the city
+* [[Connor|Thalion]] assists the soldiers and populace in the retreat to the [[Obsidian Fortress]]
+* [[Trenton|Tyr]] reforges a Great Work in [[Pinity Ironmountain|Pinity's]] axe with the assistance of [[Thomas|Cor Devlin]]
+* Monitors from [[Anthioc]] descend into the town
+* [[Kethic Tamrin|Count Tamrin]] is outed as a demonic sympathizer
+* [[Cuckoo]] is taken from [[Murcurio Vantir|Murcurio]] but his contract remains
+* The walls of [[Blackport]] are broken and [[Horlstock's Gate]] is being repaired
+* [[Baldrick Stone|Baldrick Stone's]] mercenary company is dissolved as he temporarily joins [[Alex|Paolo's]] crew
+* An Expedition into [[The Ash]] is started with the funding of [[Alden Blackwood|Duke Alden]]
