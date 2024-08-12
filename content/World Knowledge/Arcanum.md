@@ -3,7 +3,7 @@ title: Arcanum
 tags:
   - knowledge
 ---
-![[236d420b57c733e1790c02607e0fc84f.jpg]]
+![[public/images/236d420b57c733e1790c02607e0fc84f.jpg]]
 # Description
 A natural crystal mined from under the ground of various continents in [[Klei]]. Though previously sought after for it's swirling luster, later study in [[Aboa]] and [[Anthioc]] have lead to better insight into its use in practical magical applications.
 

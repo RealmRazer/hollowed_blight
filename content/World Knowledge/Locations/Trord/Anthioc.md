@@ -7,7 +7,7 @@ aliases:
   - The Symposium
   - Magic Tower
 ---
-![[the_echoing_spire_by_bouzuki_dg8xnz5-fullview.jpg]]
+![[public/images/the_echoing_spire_by_bouzuki_dg8xnz5-fullview.jpg]]
 
 # Description
 Standing at the center of [[Trord]] is the immense towering reach of Anthioc, the Magic Tower. The spire acts as both research center for and shackle of the mages of [[Klei]]. After its creation in the long aftershocks of the  [[Sundering Wars]], 
