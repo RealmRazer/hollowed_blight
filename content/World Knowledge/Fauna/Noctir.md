@@ -5,7 +5,7 @@ tags:
 aliases: 
 draft: false
 ---
-![[public/images/bigbadblack-979.jpg]]
+![[bigbadblack-979.jpg]]
 # Description
 A degraded shadow shrouded [[Fiends|fiend]] in the form of a wolf. The large creatures are known to be minor threats to those wandering the fields of [[Klei]], mostly due to the fact that they generally hunt alone.
 

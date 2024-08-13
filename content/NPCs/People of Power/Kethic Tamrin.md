@@ -5,7 +5,7 @@ tags:
 aliases:
   - Count Tamrin
 ---
-![[public/images/tamrin.png]]
+![[tamrin.png]]
 # Background
 A noble and Count in the kingdom of [[Pinem]]. Kethic is in small small military battalions to as well as a territory outside [[Maelbreak]] known as [[Carleigh]].
 
