@@ -1,7 +1,6 @@
 ---
 title: <%tp.file.title%>
-tags:
-  - 
-aliases:
-  - 
+tags: 
+aliases: 
+draft:
 ---
