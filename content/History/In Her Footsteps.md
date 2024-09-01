@@ -19,3 +19,6 @@ After getting information and reclaiming their goods and more from the Orcish ca
 	data-start-date="223-04-33-00"
 	data-era="NL">
 </div>
+* Discovered the Derelict Camp
+* Ventured into the underground in search of Pinity
+* 

@@ -1,9 +1,9 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Tulmuus 33, NL 223
+ **Current Date**: Tulmuus 36, NL 223
  
-The Great Beast [[Tet'ka]] is felled, and The Expedition sets fourth in earnest. Somewhere in the wasteland of [[The Ash]], [[Pinity Ironmountain|Pinity]] searches for some unknown purpose and, as always, the will and weight of [[Numera]] guides the future of [[Racinica]]. 
+After receiving supplies from [[Folk, Of Flagrant Dawn]], the Expedition continues onward to the last seen location of [[Pinity Ironmountain]], in order to fulfill [[Trenton|Tyr's]] obligations and learn more about what she has gleaned from the [[Attack on Blackport]].
 
 # Event Timeline 
 <!--TIMELINE BEGIN tags='recap'-->
