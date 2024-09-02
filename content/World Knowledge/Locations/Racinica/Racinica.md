@@ -23,3 +23,5 @@ Racinica is the western continent of [[Klei]], hosting a mix of cultures and tra
 	2. [[Blackport]]
 2. [[Lantrik]]
 	1. [[Baroux]]
+3. [[The Ash]]
+	1. [[Pavlon]]
