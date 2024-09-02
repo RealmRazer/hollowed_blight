@@ -6,7 +6,7 @@ aliases:
 draft: true
 ---
 
-![[public/images/aelura.png]]
+![[aelura.png]]
 # Background
 
 

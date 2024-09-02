@@ -7,7 +7,7 @@ aliases:
   - She Who Walks the Path
   - The Pilgrim
 ---
-![[public/images/il_570xN.4986749102_cgkd.webp]]
+![[il_570xN.4986749102_cgkd.webp]]
 # Description
 Numera The Pilgrim, was a traveler who walked the lands aiding the sick and downtrodden. During the tumultuous wars 223 years ago, she walked the lands and established a peaceable relationship between the kingdoms of Aboa. Additionally, she was known to bless the lands she walked, and relieve the threats of fiends who remained on the land.
 

@@ -8,7 +8,8 @@ tags:
 <map name="racinica">  
   <area shape="circle" coords="330,398,18" alt="Maelbreak" href="Pinem/Maelbreak"> 
   <area shape="circle" coords="218,232,22" alt="Blackport" href="Pinem/Blackport"> 
-  <area shape="circle" coords="405,202,18" alt="Baroux" href="Lantrik/Baroux"> 
+  <area shape="circle" coords="405,202,18" alt="Baroux" href="Lantrik/Baroux">
+  <area shape="circle" coords="340,247,12" alt="Pavlon" href="Pavlon">  
   <area shape="circle" coords="300,190,50" alt="TheAsh" href="The-Ash">  
   <area shape="circle" coords="600,560,120" alt="Trord" href="../Trord/Trord">  
 </map>

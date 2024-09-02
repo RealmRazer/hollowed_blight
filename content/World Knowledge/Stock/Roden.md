@@ -5,7 +5,7 @@ tags:
   - stock
 aliases:
 ---
-![[public/images/nicholas-wood-ratfolk1.jpg]]
+![[nicholas-wood-ratfolk1.jpg]]
 # Description
 All Field Roden are brought up with a great respect for [[Aecer]]. Piety is the greatest virtue, followed by humility and patience. Services are held weekly, and it is very embarrassing to miss one.
 
