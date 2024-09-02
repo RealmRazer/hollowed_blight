@@ -1,10 +1,11 @@
 ---
 title: Dirae
 tags:
-  - fiend
+  - beast
 aliases:
   - Dread Worm
-draft: true
+draft: false
 ---
 ![[sandworm_by_lozanox-d6iduwb.webp]]
 # Description
+Dread worms that roam the soot and sands of [[The Ash]].

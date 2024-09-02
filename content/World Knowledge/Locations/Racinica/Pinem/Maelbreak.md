@@ -4,6 +4,7 @@ tags:
   - city
 aliases:
 ---
+![[GsDyBrC.jpg]]
 # Description
 Maelbreak, the seat of power in [[Pinem]], sits in a hilled and crested region of southern Racinica. Its towering walls are constructed of sturdy stone, adorned with banners bearing the kingdom's sigil and flanked by imposing watchtowers.
 

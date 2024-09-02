@@ -3,6 +3,7 @@ title: The Ash
 tags:
  - location
 ---
+![[cd45879d704574006524150ecf346471.jpg]]
 # Description
 The Ash is a barren land that stands at the eastern center of the continent of [[Racinica]]. Marked by its ash grey soot and sands, the region is a near inexplicable barrier between [[Pinem]] and [[Lantrik]]. The land is dotted with jagged mountains, shifting mounds, and sinks holes.
 

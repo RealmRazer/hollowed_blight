@@ -3,6 +3,7 @@ title: Blackport
 tags:
  - city
 ---
+![[fantasy_city_by_robertcrescenzio_d9yuqfd-pre.jpg]]
 # Description
 Blackport is a strategic medieval city located on the edge of the kingdom of [[Pinem]] on the continent of [[Racinica]], serving as both a military outpost and bastion trading hub at the western edges of [[The Ash]]. Its position makes it a crucial bastion against the unknown dangers that lie beyond, and its architecture and atmosphere reflect a city constantly prepared for defense and vigilance.
 
