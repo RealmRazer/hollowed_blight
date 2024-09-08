@@ -2,8 +2,10 @@
 title: Hollowed Blight
 ---
  **Current Date**: Tulmuus 36, NL 223
- 
-After receiving supplies from [[Folk, Of Flagrant Dawn]], the Expedition continues onward to the last seen location of [[Pinity Ironmountain]], in order to fulfill [[Trenton|Tyr's]] obligations and learn more about what she has gleaned from the [[Attack on Blackport]].
+ The Expedition carefully  makes their way through the unearthed caverns in search of [[Pinity Ironmountain|Pinity]]. After encounter multiple monsters along the way, the ground finds the base camp for the forlorn adventure party deep in the caverns.
+
+ After reuniting, the #players learn what the Dwarf Firekeeper was after, the secrets held in the lost city of [[Pavlon]]. Through questions and spirit summonings, the party learns the lost history of the city, and the relation to bound [[Demons]] and [[Jaggeth]]. Now, they must contend with finding new discoveries the labyrinthine architecture, and keep sight of the [[Oculicii]] besides.
+
 
 # Event Timeline 
 <!--TIMELINE BEGIN tags='recap'-->
