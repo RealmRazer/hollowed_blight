@@ -2,10 +2,12 @@
 title: Hollowed Blight
 ---
  **Current Date**: Tulmuus 36, NL 223
- The Expedition carefully  makes their way through the unearthed caverns in search of [[Pinity Ironmountain|Pinity]]. After encounter multiple monsters along the way, the ground finds the base camp for the forlorn adventure party deep in the caverns.
+ 
+The delve continues, as the Expedition advances further into the [[Pavlon]]. The scouting party makes their way into the Spirit Eugenics facility, uncovering a divine relic and some of the secrets of the city's past inhabitants.
 
- After reuniting, the #players learn what the Dwarf Firekeeper was after, the secrets held in the lost city of [[Pavlon]]. Through questions and spirit summonings, the party learns the lost history of the city, and the relation to bound [[Demons]] and [[Jaggeth]]. Now, they must contend with finding new discoveries the labyrinthine architecture, and keep sight of the [[Oculicii]] besides.
+Feeling danger present [[Blue|Jeremiah]] heads out into the city alongside [[Pinity Ironmountain|Pinity]] before being separated at the Forge. Reuniting, he is with a half crazed Dwarf dead set on reclaiming the forge to unknown ends.
 
+[[Connor|Thalion]], staying at the residential fort, attempts to hold off the the beastial [[Oculicii]], but starts to succumb to illusions, false pasts, and temptuous words. Echoing foots steps lead from the tower, a song of the past is brought forward, and time marches on.
 
 # Event Timeline 
 <!--TIMELINE BEGIN tags='recap'-->
