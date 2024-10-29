@@ -16,4 +16,4 @@ draft:
 ---
 ![[silentfield-mana-explosion.jpg]]
 # Description
-The city of [[Pavlon]] was destroyed after centuries of prosperity and research. The attempts to bind and control [[Spirits]] and [[Demons]], though successful for a time, ultimately led to the Arch Demon [[Jaggeth]] wresting back control and seeing the city laid low.
+The city of [[Pavlon]] was destroyed after centuries of prosperity and research. The attempts to bind and control [[Spirits]] and [[Demons]], though successful for a time, ultimately led to the Prime Demon [[Jaggeth]] wresting back control and seeing the city laid low.
