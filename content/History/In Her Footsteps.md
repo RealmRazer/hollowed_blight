@@ -13,10 +13,14 @@ After getting information and reclaiming their goods and more from the Orcish ca
 
 # Events
 * Discovered the Derelict Camp
-* Ventured into the underground in search of [[Pinity]]
+* Ventured into the underground in search of [[Pinity Ironmountain|Pinity]]
 * Found the Lost City of [[Pavlon]] along with [[Pinity Ironmountain|Pinity]] and company
 * Learned about the history of [[Demons|Demonic]] summoning and bindings
 * Encountered [[Oculicii]]
+* Discovered a divination relic left behind by [[Numera]]
+* Found the Spirit Eugenics facility where experimentation on [[Jaggeth]] took place
+* Slayed [[Oculicii]]
+* Stopped [[Pinity Ironmountain|Pinity]] from taking over the forge
 
 
 <div class="ob-timelines"

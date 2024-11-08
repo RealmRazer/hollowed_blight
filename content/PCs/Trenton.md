@@ -46,7 +46,7 @@ Carries a light axe as a reminder to never settle for poor craftsmanship
 + Craftsmanship
 + Physical Beauty
 # Relationships
-* [[Baldor Emeraldcrag]]: Brother to Tyr and __ in line for the Emeraldcrag noble line
+* [[Baldor Emeraldcrag]]: Brother to Tyr and 3rd in line for the Emeraldcrag noble line
 * [[Ferolda Ironmountain]]: Mother, one of the concubines of the current lord of Emeraldcrag
 * [[Pinity Ironmountain]]:  Second cousin, owns a workshop in Blackport
 * [[Casmira Hill]]: Girlfriend, an outcast Runcaster
