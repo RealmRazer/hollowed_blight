@@ -40,3 +40,4 @@ An exiled thief living in [[Pinity Ironmountain|Pinity's]] workshop looking for 
 
 # Relationships
 * [[Cuckoo]]
+* [[Folk, Of Flagrant Dawn]]: Orc War Chief

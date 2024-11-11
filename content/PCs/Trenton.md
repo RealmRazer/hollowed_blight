@@ -50,3 +50,4 @@ Carries a light axe as a reminder to never settle for poor craftsmanship
 * [[Ferolda Ironmountain]]: Mother, one of the concubines of the current lord of Emeraldcrag
 * [[Pinity Ironmountain]]:  Second cousin, owns a workshop in Blackport
 * [[Casmira Hill]]: Girlfriend, an outcast Runcaster
+* [[Folk, Of Flagrant Dawn]]: Orc War Chief
