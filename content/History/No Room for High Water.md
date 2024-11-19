@@ -15,8 +15,8 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * [[Pavlon|Pavlon's]] forge is relit
 * [[Trenton|Tyr]] crafts a masterwork
 * [[Connor|Thalion]] glimpses the past inside of the demonic binding
-
-
+* [[Connor|Thalion]] discovers that [[The Ash]] has always been growing, and has only slowed it's march recently
+* [[Trenton|Tyr]], [[Blue|Jeremiah]], and [[Connor|Thalion]] discover the ports underneath the city
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
