@@ -25,7 +25,7 @@
 		{"id":"0edfc5db739712ac","type":"text","text":"# NL 223\nTyr receives work orders from Duke Alden and the Garrison","x":17760,"y":-900,"width":250,"height":145,"color":"6"},
 		{"id":"cadbc98714e113c4","type":"text","text":"# NL 223, Mutio 20\nTrade caravans and explorers arrive in Blackport","x":17885,"y":-200,"width":250,"height":145},
 		{"id":"8e0a0831f7671f25","type":"text","text":"# NL 223, Mutio 23 \nThe Attack on Blackport","x":18165,"y":-200,"width":250,"height":145,"color":"1"},
-		{"id":"3f6d2405fbbf09e2","type":"file","file":"content/History/Attack on Blackport.md","x":18090,"y":680,"width":400,"height":400},
+		{"id":"3f6d2405fbbf09e2","type":"file","file":"content/Plot Points/Attack on Blackport.md","x":18090,"y":680,"width":400,"height":400},
 		{"id":"3a9846036b1b33bd","type":"text","text":"# NL 182\nTyr is given prophecy by Fredola","x":10580,"y":-2400,"width":250,"height":145,"color":"6"},
 		{"id":"587773c153201a11","type":"text","text":"# NL 175\nTyr is given rise to claim peerage by his mother","x":10055,"y":-2400,"width":250,"height":145,"color":"6"},
 		{"id":"32adbcc22ac72033","type":"text","text":"# NL 169\nAnnouncements of the succession war of the Emeraldcrags","x":9430,"y":-2400,"width":250,"height":145,"color":"6"},

@@ -17,9 +17,13 @@ Unlike their cousins, Orcs live under terrifying and brutal conditions—an Orc 
 
 ## Culture
 
+## The Ash
+Orcs of [[The Ash|The Ashen Dunes]] function as a nomadic wandering tribe of hunters. Displaced after the the [[Sundering Age]], they seek the reclaim a land and glory lost to them during the high clash of mages and magic.
+
+They have a distrust of both humans and mages, along side a disgust for the various stock of [[Klei]] who left the lands to be destroyed humans who sought more power than they could handle.
 
 ## Places of Influence
-
+* [[The Ash]]
 
 ### Orcish Rituals
 The [[magic]] of orcs.

@@ -13,7 +13,7 @@
 		{"id":"b9226d1b9f36705c","type":"text","text":"The War Camp","x":388,"y":-520,"width":250,"height":60},
 		{"id":"cdff3aa42a9fea33","type":"text","text":"* Orcs are in a state of despair due to the increased encounters in The Hunt\n* Signs of Pinity are Scarce after they left for the east\n* The camp is filled with reclaimed goods from others who died in The Ash\n* ","x":388,"y":-441,"width":250,"height":880,"color":"3"},
 		{"id":"0a59a2bbb30d9ed8","type":"file","file":"content/NPCs/Pinity Ironmountain.md","x":-355,"y":800,"width":400,"height":400,"color":"4"},
-		{"id":"044125e9f651d9d1","type":"file","file":"content/History/The Great Hunt.md","x":313,"y":747,"width":400,"height":400,"color":"5"},
+		{"id":"044125e9f651d9d1","type":"file","file":"content/Plot Points/The Great Hunt.md","x":313,"y":747,"width":400,"height":400,"color":"5"},
 		{"id":"0e86add4f090f79a","type":"text","text":"Pinity:\n* Found something shocking in the Coppermine manifest\n* Quickly hired some porters and mercenaries\n* Went after one specific artifact by name taken during the raid\n\t* Noticed a bauble with ancient archaic rune script","x":-1340,"y":12,"width":250,"height":449,"color":"1"}
 	],
 	"edges":[
