@@ -2,7 +2,8 @@
 title: Teacher
 tags:
   - npc
-aliases:
+aliases: 
+draft:
 ---
 ![[teacher_sil.png]]
 # Background

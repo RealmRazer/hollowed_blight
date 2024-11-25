@@ -1,7 +1,8 @@
 ---
-title: Npc
+title: High Priest Ebberman
 tags:
   - npc
+  - neutral
 draft:
 ---
 ![[ebberman.png]]

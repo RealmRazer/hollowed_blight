@@ -2,6 +2,7 @@
 title: Cedric Gale
 tags:
   - npc
+  - ally
 aliases:
 ---
 ![[Cedric.png]]

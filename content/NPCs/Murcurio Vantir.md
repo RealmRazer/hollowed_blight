@@ -2,6 +2,7 @@
 title: Murcurio Vantir
 tags:
   - npc
+  - enemy
 aliases:
   - Murcurio
 ---

@@ -2,6 +2,7 @@
 title: Kethic Tamrin
 tags:
   - npc
+  - enemy
 aliases:
   - Count Tamrin
 ---

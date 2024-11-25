@@ -2,6 +2,7 @@
 title: Baldor Emeraldcrag
 tags:
   - npc
+  - enemy
 ---
 ![[baldor.png]]
 # Background

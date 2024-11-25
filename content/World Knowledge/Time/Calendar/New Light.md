@@ -28,3 +28,10 @@ draft: true
 	>
 	The time period of the "Hollowed Blight" TTRPG Campaign
 </div>
+
+<div class="ob-timelines"
+	data-title="The Disappearance of Numera"
+	data-description="Numera disappears during her last expedition through Racinica."
+	data-start-date="14-06-47-00"
+	data-era="NL">
+</div>

@@ -2,6 +2,7 @@
 title: Ferolda Ironmountain
 tags:
   - npc
+  - ally
 aliases:
   - Fredola
 ---

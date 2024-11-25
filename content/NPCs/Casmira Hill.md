@@ -2,6 +2,7 @@
 title: Casmira Hill
 tags:
   - npc
+  - ally
 aliases:
   - Casmira
 ---

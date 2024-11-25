@@ -2,6 +2,7 @@
 title: Antir Coppermine
 tags:
   - npc
+  - enemy
 aliases:
 ---
 ![[Antir.png]]

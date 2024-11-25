@@ -2,6 +2,7 @@
 title: Edgar & Binny
 tags:
   - npc
+  - ally
 aliases: 
 cssclasses:
 ---
