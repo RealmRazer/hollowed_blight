@@ -27,6 +27,8 @@ The city was forced underground due to the harsh environments of [[The Ash]], bu
 
 After centauries of using the binding technique, the city was [[The Fall of Pavlon|destroyed]] by the very demons used to fuel its innovations and ambitions.
 ## Major Points of Interest
-1.  
+1.  Ashen Geological Survey
+2. The Grand Forge
+3. Spirit Eugenics Facility
 ## Important People or Places
-1. 
+1. [[Pinity Ironmountain|Pinity]]

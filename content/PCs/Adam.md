@@ -39,3 +39,8 @@ aliases:
 
 # Background
 A priest attempting to spread his name through the land in hopes of winning the hearts and money of the people.
+
+# Relationships
+* Varick Pilgrimheart: Octavian's Father
+* Isolde Pilgrimheart: Octavian's Mother
+* Derick Pilgrimheart: Octavian's Younger Brother

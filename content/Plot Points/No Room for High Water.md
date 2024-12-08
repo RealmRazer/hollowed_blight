@@ -17,6 +17,13 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * [[Connor|Thalion]] glimpses the past inside of the demonic binding
 * [[Connor|Thalion]] discovers that [[The Ash]] has always been growing, and has only slowed it's march recently
 * [[Trenton|Tyr]], [[Blue|Jeremiah]], and [[Connor|Thalion]] discover the ports underneath the city
+* The Orcs of [[The Ash]] are given land and arms in an agreement to herald caravans towards [[Pavlon]]
+* The Expedition travels back to [[Blackport]]
+* [[Adam|Father Octavian]] brings 70 city folk over to [[Pavlon]]
+* [[Thomas|Cor Devlin]] crafts a dye for use with Cuckoo
+* The Expedition arrives in [[Maelbreak]]
+* [[Adam|Father Octavian]] reunites with his family at their mansion
+* [[Thomas|Cor Devlin]] divines the demonic interventions and points to [[Kethic Tamrin|Count Tamrin]]
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"

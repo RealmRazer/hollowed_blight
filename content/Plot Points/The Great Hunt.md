@@ -18,7 +18,7 @@ After surviving [[Blackport]], the expedition into [[The Ash]] takes place in ea
 - Lost the Sand Skiff in service negotiations
 - [[Adam|Father Octavian]], [[Connor|Thalion]], and [[Blue|Jeremiah]] find the the great beast [[Tet'ka]]
 - [[Trenton|Tyr]] learns Arcane Metallurgy
-- The expedition slays [[Tet'ka]] and claims rewards and reputation
+- The Expedition slays [[Tet'ka]] and claims rewards and reputation
 
 <div class="ob-timelines"
 	data-title="The Great Hunt"

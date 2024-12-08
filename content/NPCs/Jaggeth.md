@@ -2,6 +2,7 @@
 title: Jaggeth
 tags:
   - demon
+  - enemy
 aliases: 
 draft: false
 ---
