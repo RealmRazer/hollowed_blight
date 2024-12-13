@@ -24,6 +24,9 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * The Expedition arrives in [[Maelbreak]]
 * [[Adam|Father Octavian]] reunites with his family at their mansion
 * [[Thomas|Cor Devlin]] divines the demonic interventions and points to [[Kethic Tamrin|Count Tamrin]]
+* Met up with a group of [[Demons|Demoinc Spawn]] being lead by a robed agitator
+* Discovered a swath of demonic charms among the supplies of Royal Guardsmen
+* Put under watch from the Royal Guard after murder of a number of nobles
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
