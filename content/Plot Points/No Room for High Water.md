@@ -27,6 +27,11 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * Met up with a group of [[Demons|Demoinc Spawn]] being lead by a robed agitator
 * Discovered a swath of demonic charms among the supplies of Royal Guardsmen
 * Put under watch from the Royal Guard after murder of a number of nobles
+* Found stash of information and goods in the home of [[Kethic Tamrin|Count Tamrin]]
+	* Letters and Missives
+	* Keys to the Guardhouse and Palace
+* Left a familiar in the home of [[Kethic Tamrin|Count Tamrin]]
+* Witnessed the nascent transformation of a Royal Guard member
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
