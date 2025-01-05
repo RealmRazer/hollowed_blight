@@ -32,6 +32,8 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 	* Keys to the Guardhouse and Palace
 * Left a familiar in the home of [[Kethic Tamrin|Count Tamrin]]
 * Witnessed the nascent transformation of a Royal Guard member
+* Snuck into the Palace
+* Alerted the guards and led them away from the palace and [[Kethic Tamrin|Count Tamrin's]] residence
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
