@@ -16,4 +16,4 @@ With the aid of [[Alden Blackwood|Duke Alden]] and a missive sent back to [[Mael
 
 After his detention he has shown links to different elements of demonic worship being spread in the capitol. While presented as being on house arrest, he was seen walking the grounds of the guards quarters.
 # Relationships
-* 
+* [[Aeldfric Wakesong II]]

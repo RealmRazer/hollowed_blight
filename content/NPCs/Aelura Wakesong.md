@@ -3,7 +3,7 @@ title: Aelura Wakesong
 tags:
   - npc
 aliases: 
-draft: true
+draft: false
 ---
 
 ![[dfr0kxn-0094edc6-fdc8-417f-8b77-b02b7d0942f1.jpg]]
