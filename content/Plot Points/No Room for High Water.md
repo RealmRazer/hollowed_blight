@@ -29,11 +29,17 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * Put under watch from the Royal Guard after murder of a number of nobles
 * Found stash of information and goods in the home of [[Kethic Tamrin|Count Tamrin]]
 	* Letters and Missives
+	* 
 	* Keys to the Guardhouse and Palace
 * Left a familiar in the home of [[Kethic Tamrin|Count Tamrin]]
 * Witnessed the nascent transformation of a Royal Guard member
 * Snuck into the Palace
 * Alerted the guards and led them away from the palace and [[Kethic Tamrin|Count Tamrin's]] residence
+* Overheard the hastened schedule of the ritual
+* Retrieved [[Thomas|Cor Devlin's]] familiar
+	* [[Trenton|Tyr]] wounded
+	* Guard Captain looking for [[Kethic Tamrin|Count Tamrin]]
+* Soldiers start to transform in [[Cathoras Castle]] 
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
