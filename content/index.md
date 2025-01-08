@@ -3,9 +3,9 @@ title: Hollowed Blight
 ---
  **Current Date**: Illuustio 12, NL 223
  
-Friends are reunited as [[Trenton|Tyr]] retrieves the familiar of [[Thomas|Cor Devlin]] from the mansion of [[Kethic Tamrin|Count Tamrin]], but not without having his vitality drained from his being. [[Thomas|Cor]] and [[Trenton|Tyr]] then attempt to escape from the Count's estate after a devastating explosion is left in their wake.
+Friends are reunited as [[Trenton|Tyr]] retrieves the familiar of [[Thomas|Cor Devlin]] from the mansion of [[Kethic Tamrin|Count Tamrin]], but not without the drained of his vitality. [[Thomas|Cor]] and [[Trenton|Tyr]] then attempt to escape from the Count's estate after a devastating explosion and close encounter alert the guards to the residence.
 
-In [[Cathoras Castle]], [[Blue|Jeremiah]] overhears the still accelerating plans of [[Aeldfric Wakesong II]] and [[Kethic Tamrin|Tamrin]] before getting spotted trying to locate the relic in the basement. [[Connor|Thalion]] moves to rescue his rodent friend, but not before noticing the transformation of yet more of the palace's soldiers.
+In [[Cathoras Castle]], [[Blue|Jeremiah]] overhears the still accelerating plans of prince [[Aeldfric Wakesong II]] and [[Kethic Tamrin|Tamrin]] before fleeing from the basement. [[Connor|Thalion]] moves to rescue his rodent friend, pushing away the  yet more transforming palace soldiers.
 
 The clock is ticking, there's no time to slow down.
 # Event Timeline 
