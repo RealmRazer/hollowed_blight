@@ -15,5 +15,7 @@ Due to the attacks that have took place in the capitol against aids to the royal
 With the aid of [[Alden Blackwood|Duke Alden]] and a missive sent back to [[Maelbreak]], he was detained as part of an investigation into the turmoil in the capitol.
 
 After his detention he has shown links to different elements of demonic worship being spread in the capitol. While presented as being on house arrest, he was seen walking the grounds of the guards quarters.
+
+He was slayed underneath [[Cathoras Castle]] during a ritual to strengthen [[Jaggeth]] and transform a large number of soldiers in [[Racinica]] to demons.
 # Relationships
 * [[Aeldfric Wakesong II]]
