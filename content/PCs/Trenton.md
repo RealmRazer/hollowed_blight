@@ -32,9 +32,9 @@ aliases:
   </tr>
 </table> 
 
-| Beliefs                                                                                                                                                                                                              | Instincts                                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Earn Pinety's respect.<br>- Take what is rightfully mine, the throne of Emeraldcrag.<br>- Craft my own masterwork.<br>- Prevent disaster for the Dwarves by gaining political power. | - I never forget my tools.<br><br>- In a dangerous/stressful situation I never leave a task to someone else that I think I could do better.<br><br>- I never take shortcuts or accept shoddy craftmanship from myself. |
+| Beliefs                                                                                                                                                                       | Instincts                                                                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Find Pinety.<br>- Garner support for my inevitable rise to political power.<br>- Craft my own masterwork.<br>- Prevent disaster for the Dwarves by gaining political power. | - I never forget my tools.<br><br>- In a dangerous/stressful situation I never leave a task to someone else that I think I could do better.<br><br>- I never take shortcuts or accept shoddy craftmanship from myself. |
 
 # Background
 27th in line for the throne of the [[Emeraldcrag]] lineage. With no easy way to secure the throne and of his own lineage, Tyr turned to crafting.
@@ -46,7 +46,8 @@ Carries a light axe as a reminder to never settle for poor craftsmanship
 + Craftsmanship
 + Physical Beauty
 # Relationships
-* [[Baldor Emeraldcrag]]: Brother to Tyr and __ in line for the Emeraldcrag noble line
+* [[Baldor Emeraldcrag]]: Brother to Tyr and 3rd in line for the Emeraldcrag noble line
 * [[Ferolda Ironmountain]]: Mother, one of the concubines of the current lord of Emeraldcrag
 * [[Pinity Ironmountain]]:  Second cousin, owns a workshop in Blackport
 * [[Casmira Hill]]: Girlfriend, an outcast Runcaster
+* [[Folk, Of Flagrant Dawn]]: Orc War Chief
