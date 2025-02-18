@@ -5,6 +5,7 @@ tags:
   - stock
 aliases:
 ---
+![[Half-Elf.webp]]
 # Description
 Elves are often perceived as either aloof and cold or out of touch and bizarre. Neither perception is true. Elves are a passionate people, keenly involved in the affairs of the [[Klei|world]]. However, their long view of matters gives them a unique perspective. What might seem urgent to short-lived Men and [[Dwarves]] is a matter that can be considered at length for the Elves. But once their interest is piqued or ire aroused, Elves engage intensely.
 
@@ -14,7 +15,7 @@ Nor are Elves above the common struggle. They are as complex and internecine as 
 
 
 ## Places of Influence
-
+* [[Pramos]]
 
 ## Elven Song
 The [[magic]] of elves.
