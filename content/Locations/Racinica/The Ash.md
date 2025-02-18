@@ -11,6 +11,10 @@ Though the land is entrenched in its bone white debris, it is not devoid of vege
 
 Travelers seek to cross The Ash for a variety of reasons. Following in the footsteps of [[content/World Knowledge/Divinity/Numera]], pilgrims seeks to walk the lands to [[Klei]]. Many of the order have taken to travel between [[Blackport]] and [[Baroux]] to enlightenment on the journey and worship at some of the local temples in the neighboring cities. Merchants may also seek to travel between the wastes between the two kingdoms if time or funds are strict.
 
+Through some research that had been lost to time in [[Pavlon]], is was revealed that The Ash has not always been a blight on the land. Land in [[Racinica]] was previously an evergreen swath or forests and greenery before the scourge swept through. The Ash has been slowly spreading for a number of years, as tracked in the research center in the undercity, but at an incredibly slow rate.
+
+In recent years, no such spread has ever been noted in any kingdom's records.
+
 **Major Points of Interest:**
 1.  Orcish Encampment
 
