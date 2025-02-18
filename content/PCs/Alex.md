@@ -28,7 +28,7 @@ aliases:
     <td><b><strong>Features:</b></strong>...</td>
   </tr>
    <tr>
-    <td><b><strong>Traits:</b></strong><br>- Disturbingly Confident<br>- Predatory<br>- Problem with Authority<br>- Catalyst<br>- Sea Legs</td>
+    <td><b><strong>Traits:</b></strong><br>- Disturbingly Confident<br>- Predatory<br>- Problem with Authority<br>- Catalyst<br>- Sea Legs<br>- Aura of Determination</td>
   </tr>
 </table> 
 

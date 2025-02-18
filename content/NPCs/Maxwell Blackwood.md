@@ -2,6 +2,7 @@
 title: Maxwell Blackwood
 tags:
   - npc
+  - ally
 aliases:
 ---
 ![[ca3797_a2186e980ef54a17bc852ef5487ba2b5~mv2.png]]

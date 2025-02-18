@@ -2,6 +2,9 @@
 title: Alden Blackwood
 tags:
   - npc
+  - ally
+aliases:
+  - Duke Alden
 ---
 ![[Raoul_The_Crow.webp]]
 # Background
