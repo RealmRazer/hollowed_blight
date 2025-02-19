@@ -7,11 +7,7 @@ aliases:
 draft: false
 ---
 ```mermaid
-    %%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
-              'cScale0': '#f39401', 'cScaleLabel0': '#ffffff',
-              'cScale1': '#00ffff', 'cScaleLabel1': '#ffffff',
-              'cScale2': '#0005ff', 'cScaleLabel2': '#ffffff'
-       } } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
 	title History of Klei
 	section Dawn
