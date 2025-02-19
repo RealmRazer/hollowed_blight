@@ -26,6 +26,5 @@ After getting information and reclaiming their goods and more from the Orcish ca
 <div class="ob-timelines"
 	data-title="In Her Footsteps"
 	data-description="The Expedition sets out in earnest from War Camp and Blackport in search of Pinity and more answers "
-	data-start-date="223-04-33-00"
-	data-era="NL">
+	data-start-date="223-04-33-00">
 </div>

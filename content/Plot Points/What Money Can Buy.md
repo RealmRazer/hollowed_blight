@@ -20,6 +20,5 @@ But danger lurks on the open seas where lives are valued in coin.
 <div class="ob-timelines"
 	data-title="What Money can Buy"
 	data-description="Old friends await beyond the shores of home and sanctuary"
-	data-start-date="223-05-12-00"
-	data-era="NL">
+	data-start-date="223-05-12-00">
 </div>

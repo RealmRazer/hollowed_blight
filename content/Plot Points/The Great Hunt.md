@@ -23,6 +23,5 @@ After surviving [[Blackport]], the expedition into [[The Ash]] takes place in ea
 <div class="ob-timelines"
 	data-title="The Great Hunt"
 	data-description="The Expedition runs off course and into a band of Orcs pursuing a long lost prize"
-	data-start-date="223-04-30-00"
-	data-era="NL">
+	data-start-date="223-04-30-00">
 </div>

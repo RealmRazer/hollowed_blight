@@ -33,6 +33,5 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 <div class="ob-timelines"
 	data-title="No Room for High Water"
 	data-description="After delving deep into the lost city, new avenues and challenges present themselves to the party"
-	data-start-date="223-04-37-00"
-	data-era="NL">
+	data-start-date="223-04-37-00">
 </div>
