@@ -2,7 +2,7 @@
 title: Tower Mages
 tags:
   - npc
-draft: true
+draft: false
 ---
 ![[d18dffcd93ea06399d51c1cab7b9dc90-2169984786.jpg]]
 # Background
