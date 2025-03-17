@@ -3,6 +3,7 @@ title: Baldrick Stone
 tags:
   - npc
   - ally
+  - PrettyPirate
 ---
 ![[Andor Anande de Andrade.jpg]]
 # Background

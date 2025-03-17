@@ -3,6 +3,7 @@ title: Zola Pending
 tags:
   - npc
   - ally
+  - PrettyPirate
 aliases:
   - Zela
 draft: true
