@@ -1,5 +1,5 @@
 ---
-title: Npc
+title: Kassim
 tags:
   - npc
 draft:
@@ -10,5 +10,6 @@ An old [[Elves|Elf]], and the leader of the Golden Accord trade union. He has li
 
 He previously belonged to an Elvish clan called Firvale, but has long since forgotten and discarded the name. During his time wandering the lands during the ages of war, he was a steward and military defender.
 
+In his grief, he believes himself a steward to the safety of world. He keeps a horde of magical artifacts and goods underneath the Golden Concord's facility, each seemingly taken from some pirate, mage, or disciple. 
 # Relationships
 * [[Algor]]

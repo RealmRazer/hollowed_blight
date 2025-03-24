@@ -1,5 +1,5 @@
 ---
-title: Npc
+title: Algor
 tags:
   - npc
   - ally
