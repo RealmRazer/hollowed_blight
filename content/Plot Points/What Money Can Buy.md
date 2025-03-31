@@ -9,7 +9,7 @@ draft: false
 ---
 ![[Trord_Port.jpg]]
 # Synopsis
-The Expedition escapes the capitol city of [[Maelbreak]], a new artifact in hand. Their sights are now set on the trade city of [[Trord]] and the Dwarven City [[Otia]] across the ocean each of which contains an additional [[Ritual Stones| Ritual Stone]].
+The Expedition escapes the capitol city of [[Maelbreak]], a new artifact in hand. Their sights are now set on the trade city of [[Trord]] and the Dwarven City [[Otia]] across the ocean each of which contains an additional [[Ritual Stones|Ritual Stone]].
 
 But danger lurks on the open seas where lives are valued in coin.
 
@@ -23,6 +23,22 @@ But danger lurks on the open seas where lives are valued in coin.
 * Met [[Kassim]]
 * Recruited [[Algor]]
 * Participated in an ambush at the Black Market docks
+	* Stole a [[Ritual Stones|Ritual Stone]] from Captain Elwig's Ship
+	* Killed a number of [[Anthioc]] Mages
+	* Subdued [[Kassim]] after he attacked [[Adam|Father Octavian]]
+	* Spotted by:
+		* Pirates
+			* [[Blue|Jeremiah]]
+			* [[Trenton|Tyr]]
+			* [[Adam|Father Octavian]]
+		* [[Kassim|Kassim's]] Mercenaries
+			* [[Alex|Paolo]]
+			* [[Connor|Thalion]]
+		* [[Tower Mages]]
+			* [[Connor|Thalion]]
+			* [[Alex|Paolo]]
+			* [[Algor]]
+* [[Thomas|Cor Devlin]] Tours [[Anthioc]] at the behest of a retired Monitor
 <div class="ob-timelines"
 	data-title="What Money can Buy"
 	data-description="Old friends await beyond the shores of home and sanctuary"
