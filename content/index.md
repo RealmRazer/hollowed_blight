@@ -1,14 +1,17 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 18, NL 223
+ **Current Date**: Illuustio 19, NL 223
  
-Trouble always comes to the docks. After divining the location of the [[Ritual Stones|Ritual Stone]] at a black market dock at the south of the city, The Expedition finds themselves in a three way stand off. The mages of [[Anthioc]] stand at attention ready to charge the ship of Captain Elwig, while [[Kassim]] keeps his forces in wait to intercept them.
+Who does the treasure belong to?
+The scavenger, who wrests it free from it's long dead tomb?
+The trader, who claims it with their last gold coin?
+The pirate, who frees it through their might and indignation?
+The scholar, who knows that it might break the binds of their understanding?
 
-[[Connor|Thalion]] negotiates with [[Kassim]], to broker a truce, secure the relic and satisfy is simmering rage towards mages, and deal with the relic after.
+Or the aggressors, who wrestle against the weight of the people?
 
-Meanwhile, [[Thomas|Cor Devlin]] travels to the spire of [[Anthioc]] on his own mission to unseat them of their riches, noticing the disconnect between the spirits in the city outside.
+Every claim has its merit. Every party will have their piece.
 
-Trouble is brewing on all fronts. The end, as always, is paved by grief.
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'--><div xmlns="http://www.w3.org/1999/xhtml"><div class="timeline"><div class="timeline-container timeline-left" timeline-date="00223-00005-00012-00000" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="Plot Points/What Money Can Buy.md">What Money Can Buy</a></h3></article><p>Old friends await beyond the shores of home and sanctuary</p></div></div><h2 style="text-align: left;">NL 223-5-12</h2></div><div class="timeline-container timeline-right" timeline-date="00223-00004-00037-00000" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="Plot Points/No Room for High Water.md">No Room for High Water</a></h3></article><p>After delving deep into the lost city, new avenues and challenges present themselves to the party</p></div></div><h2 style="text-align: right;">NL 223-4-37</h2></div><div class="timeline-container timeline-left" timeline-date="00223-00004-00033-00000" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="Plot Points/In Her Footsteps.md">In Her Footsteps</a></h3></article><p>The Expedition sets out in earnest from War Camp and Blackport in search of Pinity and more answers</p></div></div><h2 style="text-align: left;">NL 223-4-33</h2></div><div class="timeline-container timeline-right" timeline-date="00223-00004-00030-00000" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="Plot Points/The Great Hunt.md">The Great Hunt</a></h3></article><p>The Expedition runs off course and into a band of Orcs pursuing a long lost prize</p></div></div><h2 style="text-align: right;">NL 223-4-30</h2></div><div class="timeline-container timeline-left" timeline-date="00223-00003-00023-00000" collapsed="false" style="--timeline-indent: 0;"><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="Plot Points/Attack on Blackport.md">Attack on Blackport</a></h3></article><p>Blackport is assaulted by Fiends at the command of an ancient Archdemon</p></div></div><h2 style="text-align: left;">NL 223-3-23</h2></div></div><div class="timeline-rendered">Wed Feb 19 2025 17:16:08 GMT-0500 (Eastern Standard Time)</div></div><!--TIMELINE END-->
