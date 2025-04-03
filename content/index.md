@@ -4,8 +4,11 @@ title: Hollowed Blight
  **Current Date**: Illuustio 19, NL 223
  
 The scavenger wrests it free from it's long dead tomb.
+
 The trader marks their claim with their last gold coin.
+
 The pirate frees it through their might and indignation.
+
 The scholar knows that it might break the binds of their understanding.
 
 And the aggressors wrestle against it, of people and prosperity both.
