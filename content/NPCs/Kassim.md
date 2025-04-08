@@ -11,5 +11,8 @@ An old [[Elves|Elf]], and the leader of the Golden Accord trade union. He has li
 He previously belonged to an Elvish clan called Firvale, but has long since forgotten and discarded the name. During his time wandering the lands during the ages of war, he was a steward and military defender.
 
 In his grief, he believes himself a steward to the safety of world. He keeps a horde of magical artifacts and goods underneath the Golden Concord's facility, each seemingly taken from some pirate, mage, or disciple. 
+
+He joins The Expedition after the attack at the Black Market, vowing to assist the party, but cut down those of magical aims if they threaten the very world he claims to protect.
 # Relationships
 * [[Algor]]
+* [[Connor|Thalion]]

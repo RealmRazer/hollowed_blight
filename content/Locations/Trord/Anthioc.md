@@ -26,9 +26,9 @@ Standing at the center of [[Trord]] is the immense towering reach of Anthioc, th
 
 _Architecture_: The spire of Anthioc was forced through the surge of great magics in the early years of the [[Sundering Age]]. The grand pillar is composed of hardened rocks of Trord's geography along with other mineral crystals in its walls. Sitting at the edge of the spire are newer creations and stone structures creating a smaller city that surrounds it.
 
-_Layout_: Anthioc encompasses 
+_Layout_: Anthioc encompasses both the small village around it as well as the large crystalline tower that stands at the center. The village houses retired or off duty Monitors.
 
-_Atmosphere_: 
+_Atmosphere_: A different aura of crushing silence and defeat to zealous activity and study depending on both the location and person who is experiencing it.
 
 ## Major Points of Interest
 

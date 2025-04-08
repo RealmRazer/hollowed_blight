@@ -7,7 +7,7 @@ aliases:
 draft: false
 ---
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
 	title History of Klei
 	section Dawn
