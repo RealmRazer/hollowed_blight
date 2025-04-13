@@ -28,7 +28,7 @@ timeline
 		NL 158: Thalion Continues his Bardic Journey
 		NL 172: Tyr Becomes a Tyro Artificer
 		NL 189: Cor Devlin is Born
-		NL 193: Tyr Becomes and Artificer
+		NL 193: Tyr Becomes an Artificer
 			: Octavian is Born
 		NL 200: Paolo is Born 
 		NL 201: Cor Devlin Becomes a City Peddler : Jeremiah is Born
@@ -41,7 +41,7 @@ timeline
 			: Paolo Becomes a Pirate
 		NL 213: Cor Devlin Becomes a Hedge Wizard
 			: Jeremiah Becomes a Burglar
-		NL 217: Father Octavian Becomes and Archpriest
+		NL 217: Father Octavian Becomes an Archpriest
 			: Paolo Becomes a Mercenary Captain
 		NL 223: Attack on Blackport (Hollowed Blight Campaign)
 			: Rediscovery of Pavlon
