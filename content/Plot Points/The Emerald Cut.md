@@ -14,7 +14,8 @@ The Expedition makes their way across the seas to [[Otia]], home and capitol nat
 
 Dangers, both familiar and familial, await in the mountains of industry. 
 # Events
-* 
+* Traveled the Ocean from [[Trord]] to [[Otia]]
+* Arrived in [[Bharn Darom]]
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"

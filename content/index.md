@@ -1,10 +1,9 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 20, NL 223
+ **Current Date**: Illuustio 25, NL 223
  
-Once again joined by old friends and new company, The Expedition makes their way out of the power kegs in The [[Free Ports of Trord| Free Ports]] and unto new horizons. Followed by [[Kassim]] and [[Chérie]], the party makes their way across the ocean to [[Otia]], homeland of the [[Dwarves]], and seat of a prophecy with [[Trenton|Tyr]] at the center.
-
+A century of plotting is not easily broken. The wayward son returns to his home land, hoping to bring with him, a new found era of hope.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
