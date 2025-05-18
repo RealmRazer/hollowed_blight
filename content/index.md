@@ -1,9 +1,12 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 25, NL 223
+ **Current Date**: Illuustio 33, NL 223
  
-A century of plotting is not easily broken. The wayward son returns to his home land, hoping to bring with him, a new found era of hope.
+The Expedition arrives in [[Emeraldcrag]], where [[Trenton|Tyr]]'s mother [[Feralda Ironmountain]] awaits. She is brought into the secret of the group and, reluctantly, agrees to assist them in tracking down their [[Ritual Stones|Ritual Stone]].
+
+The stone is somewhere deep in the mines of [[Emeraldcrag]], owned by one of the branch families, and while they await the response of who, the Expedition enjoys a hopefully peaceful downtime.
+
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

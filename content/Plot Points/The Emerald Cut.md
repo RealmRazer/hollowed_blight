@@ -16,6 +16,10 @@ Dangers, both familiar and familial, await in the mountains of industry.
 # Events
 * Traveled the Ocean from [[Trord]] to [[Otia]]
 * Arrived in [[Bharn Darom]]
+* Met some members of [[Trenton|Tyr]]'s family
+* Stole some sandwiches
+* [[Trenton|Tyr]] acquired his Mask
+* Summoned and observed the spirits of [[Bharn Darom]]
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"

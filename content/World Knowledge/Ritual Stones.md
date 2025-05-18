@@ -3,6 +3,8 @@ title: Ritual Stones
 tags:
   - knowledge
 draft: false
+aliases:
+  - Ritual Stone
 ---
 ![[depositphotos_367851940-stock-photo-blue-tone-wall-background.webp]]
 # Description
