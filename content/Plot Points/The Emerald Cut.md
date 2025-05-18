@@ -20,6 +20,10 @@ Dangers, both familiar and familial, await in the mountains of industry.
 * Stole some sandwiches
 * [[Trenton|Tyr]] acquired his Mask
 * Summoned and observed the spirits of [[Bharn Darom]]
+* Traveled to [[Emeraldcrag]]
+* Met with [[Feralda Ironmountain]]
+* Discussed the [[Ritual Stones]]
+* Obtained information of the old mine owned by one of the [[Emeraldcrag]] branch families
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"
