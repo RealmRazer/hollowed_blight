@@ -16,10 +16,11 @@ _Layout_:
 The massive central castle is used to break apart Emeraldcrag in to different districts, each one overlooked by members of the different families who have been incorporated. At current, the families of interest in Emeraldcrag are:
 * Emeraldcrag
 * Ironmountain
-* Mythriltor
 * Shalemine
 * Marblemesa
-* 
+* Obsidianspire
+* Quartzbarrow
+* Goldtor
 
 _Atmosphere_: 
 

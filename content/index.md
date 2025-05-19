@@ -1,12 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 33, NL 223
+ **Current Date**: Illuustio 34, NL 223
  
-The Expedition arrives in [[Emeraldcrag]], where [[Trenton|Tyr]]'s mother [[Feralda Ironmountain]] awaits. She is brought into the secret of the group and, reluctantly, agrees to assist them in tracking down their [[Ritual Stones|Ritual Stone]].
+[[Trenton|Tyr]], along with the rest of The Expedition, make their way to the throne room of [[Emeraldcrag]] after learning the of Goldtor, the mine owners from [[Feralda Ironmountain|Feralda]]. [[Thordiac Emeraldcrag]]. [[Thordiac Emeraldcrag]] sits upon his emerald throne and offers [[Trenton|Tyr]] a boon in exchange for his crafted works and service to the family.
 
-The stone is somewhere deep in the mines of [[Emeraldcrag]], owned by one of the branch families, and while they await the response of who, the Expedition enjoys a hopefully peaceful downtime.
-
+After some discussions with [[Ulyssa Emeraldcrag]] and other members of the Goldtor family, the Expedition prepares to uncover the mystery of the not so abandoned mine, and a mysterious journal left behind in the estate uncovered by [[Connor|Thalion]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

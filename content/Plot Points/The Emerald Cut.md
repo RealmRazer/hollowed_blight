@@ -23,7 +23,15 @@ Dangers, both familiar and familial, await in the mountains of industry.
 * Traveled to [[Emeraldcrag]]
 * Met with [[Feralda Ironmountain]]
 * Discussed the [[Ritual Stones]]
-* Obtained information of the old mine owned by one of the [[Emeraldcrag]] branch families
+* Obtained information of the old mine owned by one of the Goldtor family
+* Had an audience with the patriarch of [[Emeraldcrag]], [[Thordiac Emeraldcrag]]
+	* Gave up the Dwarven Gauntlets
+	* Given a boon used to explore the Goldtor mines for the relic stone
+* Spoke with [[Ulyssa Emeraldcrag]] and [[Novec Goldtor]] about the entrance rights
+* Found records of use in the Goldtor mines unknown to [[Ulyssa Emeraldcrag]]
+	* Sending soldiers in to scout before the main family enters
+* [[Kassim]] speaks with [[Thomas|Cor Devlin]] about magic
+* [[Connor|Thalion]] spends the night with [[Ulyssa Emeraldcrag]] and reads an old elven biography in the Goldtor record room
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"
