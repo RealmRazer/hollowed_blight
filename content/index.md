@@ -1,11 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 34, NL 223
+ **Current Date**: Illuustio 36, NL 223
  
-[[Trenton|Tyr]], along with the rest of The Expedition, make their way to the throne room of [[Emeraldcrag]] after learning the of Goldtor, the mine owners from [[Feralda Ironmountain|Feralda]]. [[Thordiac Emeraldcrag]]. [[Thordiac Emeraldcrag]] sits upon his emerald throne and offers [[Trenton|Tyr]] a boon in exchange for his crafted works and service to the family.
+The Expedition enters the Goldtor mines, with the warnings of [[Ulyssa Emeraldcrag|Ulyssa]], and the company of [[Novek Goldtor]]. The mines are a confusing mess of winding tunnels, made more disorienting by the presence of strange crystalline sigil stones that shake the very senses.
 
-After some discussions with [[Ulyssa Emeraldcrag]] and other members of the Goldtor family, the Expedition prepares to uncover the mystery of the not so abandoned mine, and a mysterious journal left behind in the estate uncovered by [[Connor|Thalion]].
+Armed with a new clarity and might granted by [[Thomas|Cor Devlin]] and [[Adam|Father Octavian]] both, [[Trenton|Tyr]] attempts to destroy the stones, and lead the party further in, only to realize that there are many more wards barring their path, and their [[Dwarves|Dwarven]] companion is somewhere lost in the mines.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

@@ -14,3 +14,4 @@ A daughter of [[Thordiac Emeraldcrag]] and the Goldtor family. She is an old fri
 * [[Trenton|Tyr Emeraldcrag]]
 * [[Connor|Thalion Emberleaf]]
 * [[Thordiac Emeraldcrag]]
+* [[Novek Goldtor]]

@@ -27,11 +27,16 @@ Dangers, both familiar and familial, await in the mountains of industry.
 * Had an audience with the patriarch of [[Emeraldcrag]], [[Thordiac Emeraldcrag]]
 	* Gave up the Dwarven Gauntlets
 	* Given a boon used to explore the Goldtor mines for the relic stone
-* Spoke with [[Ulyssa Emeraldcrag]] and [[Novec Goldtor]] about the entrance rights
+* Spoke with [[Ulyssa Emeraldcrag]] and [[Novek Goldtor]] about the entrance rights
 * Found records of use in the Goldtor mines unknown to [[Ulyssa Emeraldcrag]]
 	* Sending soldiers in to scout before the main family enters
 * [[Kassim]] speaks with [[Thomas|Cor Devlin]] about magic
 * [[Connor|Thalion]] spends the night with [[Ulyssa Emeraldcrag]] and reads an old elven biography in the Goldtor record room
+	* Found information about the elf who oversaw the end of [[Pavlon]] and the changes that occurred to those around them
+* Entered the Goldtor mines
+	* Found and destroyed a sigil stone, distorting the paths in the mine
+	* Located a Summoning Circle deep into the mineshaft
+	* Located a monster den of
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"
