@@ -36,7 +36,13 @@ Dangers, both familiar and familial, await in the mountains of industry.
 * Entered the Goldtor mines
 	* Found and destroyed a sigil stone, distorting the paths in the mine
 	* Located a Summoning Circle deep into the mineshaft
-	* Located a monster den of
+	* Located a monster den of [[Fodeebris]]
+		* Started to Explore the deep dug monster caverns
+	* Found the resting quarters of the miners and a map
+	* Destroyed the remaining sigil stones, clearing the path deep into the mine
+	* Encountered the [[Stranger]]
+		* Sent back to the entrance with [[Thomas|Cor Devlin]]
+	* Found the Crystal Spire being attended to by a horde
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"

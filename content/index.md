@@ -1,11 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 36, NL 223
+ **Current Date**: Illuustio 37, NL 223
  
-The Expedition enters the Goldtor mines, with the warnings of [[Ulyssa Emeraldcrag|Ulyssa]], and the company of [[Novek Goldtor]]. The mines are a confusing mess of winding tunnels, made more disorienting by the presence of strange crystalline sigil stones that shake the very senses.
+Dawn breaks, but The Expedition remains underground to continue their investigation. After recovering [[Novek Goldtor]] from his fall into the corpse pit, the group continue to locate and destroy the disorienting Sigil Stones throughout the Goldtor mine. Upon uncovering the final sigil stone, the team also comes across the [[Stranger]], a man with an eyepatch an some memory issues.
 
-Armed with a new clarity and might granted by [[Thomas|Cor Devlin]] and [[Adam|Father Octavian]] both, [[Trenton|Tyr]] attempts to destroy the stones, and lead the party further in, only to realize that there are many more wards barring their path, and their [[Dwarves|Dwarven]] companion is somewhere lost in the mines.
+Leaving the [[Stranger]] with [[Thomas|Cor Devlin]], the rest of The Expedition moves deeper through the final sections of the mines and uncover a Crystalline Spire, being tended to by a horde of [[Demons|Demonic Spawn]]. With a large task in front of them, the group reorganizes and attempts to figure out what to do, and also sends the [[Stranger]] back to the entrance to be tended to.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
