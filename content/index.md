@@ -1,11 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 37, NL 223
+ **Current Date**: Illuustio 40, NL 223
  
-Dawn breaks, but The Expedition remains underground to continue their investigation. After recovering [[Novek Goldtor]] from his fall into the corpse pit, the group continue to locate and destroy the disorienting Sigil Stones throughout the Goldtor mine. Upon uncovering the final sigil stone, the team also comes across the [[Stranger]], a man with an eyepatch an some memory issues.
+With a new [[Ritual Stones|Ritual Stone]] in hand, the expedition once again sets foot in [[Emeraldcrag]]. [[Trenton|Tyr]] is called back to his father's side along with [[Ulyssa Emeraldcrag|Ulyssa]], while the rest of the party waits at the estate. 
 
-Leaving the [[Stranger]] with [[Thomas|Cor Devlin]], the rest of The Expedition moves deeper through the final sections of the mines and uncover a Crystalline Spire, being tended to by a horde of [[Demons|Demonic Spawn]]. With a large task in front of them, the group reorganizes and attempts to figure out what to do, and also sends the [[Stranger]] back to the entrance to be tended to.
+But there is much to do and discuss, as a horde still rests in the depths of the Goldtor mines, and time is ever a resource that is all are reluctant to spend.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

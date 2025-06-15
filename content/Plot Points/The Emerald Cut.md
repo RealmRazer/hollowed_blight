@@ -42,7 +42,17 @@ Dangers, both familiar and familial, await in the mountains of industry.
 	* Destroyed the remaining sigil stones, clearing the path deep into the mine
 	* Encountered the [[Stranger]]
 		* Sent back to the entrance with [[Thomas|Cor Devlin]]
+		* Demonic blight removed
+		* Escaped into the wilderness
 	* Found the Crystal Spire being attended to by a horde
+		* Scaled by [[Blue|Jeremiah]] with the assistance of the Mourner's Mask
+		* [[Ritual Stones|Ritual Stone]] reclaimed
+		* Entrance temporarily sealed
+* Arrived back at [[Emeraldcrag]]
+	* [[Trenton|Tyr]] and [[Ulyssa Emeraldcrag|Ulyssa]] called back to speak with [[Thordiac Emeraldcrag|Thordiac]]
+	* [[Thomas|Cor Devlin]] interrogates a demonic spirit
+		* Learns of weaknesses but mostly the inevitability of [[Jaggeth]]
+		* Learns the name [[Jaggeth|Jaggeth Ket Alhmien]]
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"
