@@ -13,3 +13,4 @@ aliases:
 After the Expedition arrives at [[Emeraldcrag]], she is told of the entire backdrop to their quest and assists in locating the [[Ritual Stones|Ritual Stone]] somewhere in [[Otia]].
 # Relationships
 * [[Trenton|Tyr Emeraldcrag]]
+* Darmear Ironmountain

@@ -5,7 +5,7 @@ tags:
 aliases: 
 draft:
 ---
-![[teacher_sil.png]]
+![[teacher.png]]
 # Background
 An elder, teaching music at the citadel in [[Pramos]].
 

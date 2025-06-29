@@ -4,6 +4,8 @@ tags:
   - npc
   - enemy
 draft: true
+aliases:
+  - Baldor
 ---
 ![[baldor.png]]
 # Background

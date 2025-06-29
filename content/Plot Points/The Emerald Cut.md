@@ -53,6 +53,19 @@ Dangers, both familiar and familial, await in the mountains of industry.
 	* [[Thomas|Cor Devlin]] interrogates a demonic spirit
 		* Learns of weaknesses but mostly the inevitability of [[Jaggeth]]
 		* Learns the name [[Jaggeth|Jaggeth Ket Alhmien]]
+	* Inform [[Thordiac Emeraldcrag|Thordiac]] of the fate of the mines
+	* Make deals with the apothecaries
+	* Covert [[Novek Goldtor]] to support [[Numera]]
+	* Leave for [[Bharn Darom]]
+* Attempt to reach the Low King
+	* [[Adam|Father Octavian]] is concealing the forged Necklace
+	* Fight erupts between [[Trenton|Tyr]] and [[Adam|Father Octavian]]
+		* [[Adam|Octavian]] injured
+	* Senate chamber errupting in discussion about [[Baldor Emeraldcrag]] taking control
+		* Interrupted by [[Trenton|Tyr]] and his negative reputation
+	* Dwarves incited to storm the lowest chamber of the city
+	* Find a similar though altered crystal from the Goldtor Mines
+	* Mortally wound 
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"

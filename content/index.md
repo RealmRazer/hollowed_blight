@@ -1,11 +1,13 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 40, NL 223
+ **Current Date**: Illuustio 45, NL 223
  
-With a new [[Ritual Stones|Ritual Stone]] in hand, the expedition once again sets foot in [[Emeraldcrag]]. [[Trenton|Tyr]] is called back to his father's side along with [[Ulyssa Emeraldcrag|Ulyssa]], while the rest of the party waits at the estate. 
+Tensions run high between members of The Expedition. [[Trenton|Tyr]] and [[Adam|Father Octavian]] put off an argument about the forged necklace to deal with a growing distress in the senate court room. 
 
-But there is much to do and discuss, as a horde still rests in the depths of the Goldtor mines, and time is ever a resource that is all are reluctant to spend.
+After talking out of a argument with [[Baldor Emeraldcrag|Baldor]], the party moves deep underground to a hidden chamber of the palace. There they find a room with a tower crystal similar to the Goldtor mine, and the inert visage of Otia's King.
+
+[[Trenton|Tyr]], [[Alex|Paolo]], and [[Adam|Father Octavian]] deal with the masses of complicit Dwarves and Rouge mages, while [[Connor|Thalion]] and [[Blue|Jeremiah]] chase down an escaping assailant, unknowing to the power he might infilct.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
