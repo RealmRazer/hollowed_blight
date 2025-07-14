@@ -65,7 +65,15 @@ Dangers, both familiar and familial, await in the mountains of industry.
 		* Interrupted by [[Trenton|Tyr]] and his negative reputation
 	* Dwarves incited to storm the lowest chamber of the city
 	* Find a similar though altered crystal from the Goldtor Mines
-	* Mortally wound 
+	* Mortally wound [[Abadea Tamrin]]
+		* Questioned about who let him in and where the remaining forces are
+	* Low King stabilized by [[Thomas|Cor]]
+* Attended the final Dwarven Council Meeting
+	* Elected [[Trenton|Tyr]] as the head and leader of the demonic subjugation
+	* Ousted the Quartzbarrow family
+		* Caught [[Baldor Emeraldcrag|Baldor]] in the collateral
+	* Earned the favor and support of the [[Dwarves]] of [[Otia]]
+* [[Blue|Jeremiah]] stole 2 important rings of the Low King
 
 <div class="ob-timelines"
 	data-title="The Emerald Cut"
