@@ -3,7 +3,7 @@ title: Baldor Emeraldcrag
 tags:
   - npc
   - enemy
-draft: true
+draft: false
 aliases:
   - Baldor
 ---

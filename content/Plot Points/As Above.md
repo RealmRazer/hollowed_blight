@@ -13,7 +13,13 @@ After dealing with the [[Demons|Demonic Corruption]] of [[Otia]], The Expedition
 
 The time has come to deal with what lies below.
 # Events
-* ...
+* Traveled back from [[Otia]] and [[Bharn Darom]] towards [[Lochline Cove]]
+	* Learned [[Kealeen Numera]] resides with the final [[Ritual Stones]] in [[The Ash]]
+	* Learned of the coming doom, dated for Morti 33, NL 223 
+	* Encountered a Leviathan
+		* Escape from its pursuit
+* Meet the pirates of [[Lochline Cove]]
+	* Spotted [[Adelaide Grimwood]] in one of the high taverns
 
 <div class="ob-timelines"
 	data-title="As Above"

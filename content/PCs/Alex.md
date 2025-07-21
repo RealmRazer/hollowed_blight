@@ -9,7 +9,7 @@ aliases:
 
  <table>
   <tr>
-    <td rowspan="8"><img src="../images/00005-3141133842.png" alt="Paolo Piranha"></td>
+    <td rowspan="8"><img src="../images/Paolo_Leader.png" alt="Paolo Piranha"></td>
     <td><b><strong>Stock:</b></strong>Human</td>
   </tr>
   <tr>
@@ -41,4 +41,6 @@ A reformed pirate turned mercenary captain. Paolo is attempting to great the lar
 
 # Relationships
 * [[Adelaide Grimwood]]: A pirate that Paolo was friends with before turning away from the seas
-* [[Baldrick Stone]]: A competing mercenary captain to Paolo's outfit
+* [[Baldrick Stone]]:  Vice Captain of the Pretty Pirates
+* [[Algor]]: Member of the Pretty Pirates
+* Derrick Stonegorge: Member of the Pretty Pirates
