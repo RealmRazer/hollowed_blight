@@ -1,11 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 46, NL 223
+ **Current Date**: Illuustio 49, NL 223
  
 After solving the issues surrounding [[Otia]] and the [[Ritual Stones|Ritual Stone]], The Expedition make their way back on the high seas.
 
-Little is left in their path save for the remaining [[Ritual Stones]] in [[The Ash]], and the pirate lair of Lochline Cove.
+Little is left in their path save for the remaining [[Ritual Stones]] in [[The Ash]], and the pirate lair of [[Lochline Cove]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
