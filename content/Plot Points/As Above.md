@@ -20,7 +20,13 @@ The time has come to deal with what lies below.
 		* Escape from its pursuit
 * Meet the pirates of [[Lochline Cove]]
 	* Spotted [[Adelaide Grimwood]] in one of the high taverns
-
+	* Bought new supplies of Myhtril
+	* Recruited [[Valeria]] and [[Armei]] to the Pretty Pirates
+	* Purchased a new engine for the Sand Skiff
+	* Fended off [[Elwig]] and [[Adelaide Grimwood]]
+		* Blew up pirate ships
+		* Slayed members of the crew
+		* Mesmerized the pirates of the cove with visions of the apocalypse
 <div class="ob-timelines"
 	data-title="As Above"
 	data-description="Little remains for The Expedition, save the final confrontation."

@@ -3,9 +3,7 @@ title: Hollowed Blight
 ---
  **Current Date**: Illuustio 49, NL 223
  
-After solving the issues surrounding [[Otia]] and the [[Ritual Stones|Ritual Stone]], The Expedition make their way back on the high seas.
-
-Little is left in their path save for the remaining [[Ritual Stones]] in [[The Ash]], and the pirate lair of [[Lochline Cove]].
+The expedition ties some loose ends with the pirate of [[Lochline Cove]] and Dread Captain [[Elwig]]. With new goods in hand and a couple new additions to the Pretty Pirates, The Expedition continues their march towards [[Pavlon]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
