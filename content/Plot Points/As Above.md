@@ -33,6 +33,16 @@ The time has come to deal with what lies below.
 	* Summoned the scattered soul of [[Maith Emberleaf]]
 	* Started a ritual to reignite the spirits of the city
 	* Send [[Baldrick Stone]] and [[Zola Pending]] back to [[Blackport]] for the Sand Skiff
+	* [[Blue|Jeremiah]] trains [[Great Wolf Pup|Butch]] to operate with his group
+	* [[Adam|Father Octavian]] confronts [[High Priest Ebberman]] who enters [[Pavlon]] for his greed
+		* Overwrote his Will and Mind to act in accordance with the City
+		* Conducted a ritual to protect the residential spire
+	* [[Alex|Paolo]] recruits [[Urbul]] to the Pretty Pirates and acquires a new Pristine Medicine Kit
+		* Agrees to take down the [[Fiends|Fiend Nests]] in the ceilings of [[Pavlon]]
+	* [[Trenton|Tyr]] takes the weight off the leaders of [[Pavlon]]
+		* Gets [[Folk, Of Flagrant Dawn]] to agree to contract [[Alex|Paolo]] to take on the [[Fiends]]
+		* Gets [[Pinity Ironmountain|Pinity]] to rest and takes over maintenance work
+	* [[Trenton|Tyr]] crafts a new Artifact Armor for [[Blue|Jeremiah]]
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."
