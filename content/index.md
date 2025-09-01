@@ -1,13 +1,11 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 57, NL 223
+ **Current Date**: Illuustio 65, NL 223
  
-The Expedition continues spending time in [[Pavlon]] checking in on the residents and leadership. [[Trenton|Tyr]] gets to work maintaining the equipment of the soldiers and making a great work for [[Blue|Jeremiah]]. During the same time [[Alex|Paolo]] continues to recruit new members for the Pretty Pirates, and scavenge for new and useful goods.
+[[Pavlon]] ignites with life and magic, as the [[Spirits]] of the city are brought back to life after an eon of inactivity. The Expedition discusses their next steps as they navigate the coming weeks before the ascent of [[Apstarris]].
 
-At the entrance to the city, [[High Priest Ebberman]] brings a contingent of soldiers to retake the control of [[Pavlon]] that was promised to him. After a short confrontation with [[Adam|Father Octavian]], the attacking priest's mind is overwritten with a single core thought, [[Pavlon]] and its flock must be protected.
-
-44 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
+36 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

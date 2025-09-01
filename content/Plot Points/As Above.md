@@ -43,6 +43,10 @@ The time has come to deal with what lies below.
 		* Gets [[Folk, Of Flagrant Dawn]] to agree to contract [[Alex|Paolo]] to take on the [[Fiends]]
 		* Gets [[Pinity Ironmountain|Pinity]] to rest and takes over maintenance work
 	* [[Trenton|Tyr]] crafts a new Artifact Armor for [[Blue|Jeremiah]]
+	* [[Thomas|Cor Devlin]] awakens the spirits of the city
+* The [[Lantrik]] knights are brought on for the cause
+* The Expedition starts training to prepare for the summit
+* [[Connor|Thalion]] leaves for [[Blackport]] to assemble more forces
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."
