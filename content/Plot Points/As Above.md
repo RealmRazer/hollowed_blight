@@ -47,6 +47,11 @@ The time has come to deal with what lies below.
 * The [[Lantrik]] knights are brought on for the cause
 * The Expedition starts training to prepare for the summit
 * [[Connor|Thalion]] leaves for [[Blackport]] to assemble more forces
+	* Recruits soldiers to fight in the coming battle
+* [[Adam|Father Octavian]] and [[Alex|Paolo]] leave for [[Maelbreak]] to seek the aid of Derrick Pilgrimheart
+	* Heal the sick and injured in the last uprising
+	* Caught and escaped from guards dispatched by [[Aeldfric Wakesong II]]
+* [[Thomas|Cor Devlin]] researches [[Jaggeth]] and gathers reagents
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

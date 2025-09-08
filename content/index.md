@@ -1,11 +1,15 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Illuustio 65, NL 223
+ **Current Date**: Morti 5, NL 223
  
-[[Pavlon]] ignites with life and magic, as the [[Spirits]] of the city are brought back to life after an eon of inactivity. The Expedition discusses their next steps as they navigate the coming weeks before the ascent of [[Apstarris]].
+Though dispersed, The Expedition moves to gather forces to face the final confrontation.
 
-36 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
+[[Connor|Thalion]] pleads with [[Alden Blackwood|Duke Alden]] at [[Blackport]], securing an army for their advance on [[Apstarris]]. [[Adam|Father Octavian]] and [[Alex|Paolo]] travel to [[Maelbreak]] to discuss trade routes and assuage the pain that was felt in the after shock of the party's departure. After being discovered by the city guard, [[Adam|Octavian]] starts to unravel the power structure of the city while [[Alex|Paolo]] journeys towards [[Blackport]] to catch up with [[Baldrick Stone]] and [[Zola Pending]].
+
+[[Thomas|Cor Devlin]] spends the next weeks researching in [[Pavlon]], trying to uncover what truths he can of [[Jaggeth]] and the rituals. Afterwards, he spends his time hunting for new reagents, to be used in the final ascent.
+
+28 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
