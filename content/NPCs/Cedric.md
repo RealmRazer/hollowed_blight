@@ -4,6 +4,7 @@ tags:
   - npc
   - ally
 aliases:
+  - Cedric Gale
 ---
 ![[Cedric.png]]
 # Background

@@ -1,15 +1,15 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Morti 5, NL 223
+ **Current Date**: Morti 29, NL 223
  
-Though dispersed, The Expedition moves to gather forces to face the final confrontation.
+Week after week passes as The Expedition prepares to summit [[Apstarris]]. [[Trenton|Tyr]] and [[Thomas|Cor Devlin]] join forces to rid [[Pavlon]] of its monster problem, while [[Alex|Paolo]] and [[Connor|Thalion]] start their return journey from [[Blackport]]. After ensuring the city is safe, and most of The Expedition returns to the crystal city, every turns to personal projects and improvements.
 
-[[Connor|Thalion]] pleads with [[Alden Blackwood|Duke Alden]] at [[Blackport]], securing an army for their advance on [[Apstarris]]. [[Adam|Father Octavian]] and [[Alex|Paolo]] travel to [[Maelbreak]] to discuss trade routes and assuage the pain that was felt in the after shock of the party's departure. After being discovered by the city guard, [[Adam|Octavian]] starts to unravel the power structure of the city while [[Alex|Paolo]] journeys towards [[Blackport]] to catch up with [[Baldrick Stone]] and [[Zola Pending]].
+[[Adam|Father Octavian]] continues investigating the new innerworkings of [[Maelbreak]] and meets up with the first princess [[Tara Wakesong]]. After a discussion on priority and order, he removes [[Aeldfric Wakesong II]] from rule, securing the prosperity of the city, and also a large number of their forces for the battle ahead.
 
-[[Thomas|Cor Devlin]] spends the next weeks researching in [[Pavlon]], trying to uncover what truths he can of [[Jaggeth]] and the rituals. Afterwards, he spends his time hunting for new reagents, to be used in the final ascent.
+Once finally regrouped, and feelings of dread for the coming battle are sorted, the questions of an [[Kassim|Old Elf]] start to ring in the halls of the lost city.
 
-28 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
+4 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

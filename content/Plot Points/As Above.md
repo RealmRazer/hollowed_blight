@@ -52,6 +52,20 @@ The time has come to deal with what lies below.
 	* Heal the sick and injured in the last uprising
 	* Caught and escaped from guards dispatched by [[Aeldfric Wakesong II]]
 * [[Thomas|Cor Devlin]] researches [[Jaggeth]] and gathers reagents
+* Rid [[Pavlon]] of its monster infestation
+* Dwarves and soldiers from [[Blackport]] arrive in Pavlon
+* Instill [[Tara Wakesong]] as the interim ruler and future Empress of [[Pinem]]
+	* Oust [[Aeldfric Wakesong II]] as ruler
+* [[Thomas|Cor Devlin]] creates arcane cannons and drafts a small unit to cart them to [[Apstarris]]
+* Upgrade [[Pavlon]] for the future
+	* Create new safer ways to enter the city docks
+	* Create an governmental body that can represent it more efficiently
+		* [[Folk, Of Flagrant Dawn]]
+		* [[Ulyssa Emeraldcrag]]
+		* [[High Priest Ebberman]]
+		* [[Zola Pending|Zela]]
+	* Start working on in city food production
+* [[Kassim]] starts to learn about the magics and personal gain and arrogance used in the city
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."
