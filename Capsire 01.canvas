@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"6e2985eaeb1cff96","type":"text","text":"# Meeting at Capsire Square\n\n**Time & Place**: Capsire Village\n**Stake**: Learning more about some of the missing belongings and the accused\n**Challenges**: Speaking to Villagers(Social)\n**Other NPCs**: Villagers\n**Rewards**: Initial direction towards the woods","x":-360,"y":-560,"width":420,"height":240},
+		{"id":"60192ae47e4a1690","type":"text","text":"# Delving the Woods\n\n**Time & Place**: Capsire Forest\n**Stake**: Finding the Location of the Items\n**Challenges**: Navigating the Woods(Exploration), Fending off beasts(Combat)\n**Other NPCs**: Riona(If freed), Warder(If completed)\n**Rewards**: Cache of goods, information on the Herald","x":140,"y":-560,"width":420,"height":240},
+		{"id":"2fb1391702824514","type":"text","text":"# Bandits at the Lake\n\n**Time & Place**: Capsire Lake\n**Stake**: Finding a true threat, being discovered\n**Challenges**: Explore or Observe the camp(Watcher)\n**Other NPCs**: Warder(If completed), Fior(Bandit Leader)\n**Rewards**: Head start on the bandits","x":600,"y":-560,"width":420,"height":240},
+		{"id":"0f740efe6535c4b7","type":"text","text":"Missing Things:\nAdam - Watering Can\nKyle - Short Term Memory\nConnor - Talisman from my Wagon (Warding)\nDorta - A Contract","x":-700,"y":220,"width":250,"height":300},
+		{"id":"15639efd718373d2","x":110,"y":-208,"width":250,"height":628,"type":"text","text":"Session 1\n\nBandits have stolen the goods from this village\n\nThey are lead by a woman called Fiori, an old love of Wyne Thiles, the current Herald\n\nThey are camped at the water's Edge, disturbing the local spirits, causing the theft of small scale goods for attention\n\nSelene is now privy to this while the others are fighting a wolf"},
+		{"id":"15d75ad55489d99b","type":"text","text":"# Interrogate the Villagers\n\n**Time & Place**: Capsire Village\n**Stake**: Learn about the Accused and Herald\n**Challenges**: Speaking to Villagers(Social)\n**Other NPCs**: Villagers\n**Rewards**: Allies, ","x":-360,"y":-24,"width":420,"height":260}
+	],
+	"edges":[
+		{"id":"d19075e10165d89f","fromNode":"6e2985eaeb1cff96","fromSide":"right","toNode":"60192ae47e4a1690","toSide":"left"},
+		{"id":"fc4f3c240fc9efc6","fromNode":"60192ae47e4a1690","fromSide":"right","toNode":"2fb1391702824514","toSide":"left"}
+	]
+}

@@ -12,8 +12,8 @@ timeline
 	title History of Klei
 	section Dawn
 	section First Light
-	FL 72582: Building of the City of Pavlon
-	FL 68551: The Fall of Pavlon
+	FL 30582: Building of the City of Pavlon
+	FL 26551: The Fall of Pavlon
 	FL 1150: The Sundered Age
 	FL 652: Reconciliation of Racinica
 	FL 649: The Spire on Trord is repurposed as a magic insitution

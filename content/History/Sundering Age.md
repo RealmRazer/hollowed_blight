@@ -16,6 +16,6 @@ draft:
 ---
 ![[4586501-fantasy-art-fantasy-city-war-battle.jpg]]
 # Description
-A period of time on [[Klei]] unchecked conflict and strike, lasting about 500 years. During this period of time, the myriad races and kingdoms of [[Klei]] fought for control over the land and, at a time, the destruction of  Sorcerous Kings who arose to attempted to bend all to their will.
+A period of unchecked conflict and strife on [[Klei]], lasting about 500 years. During this period of time, the myriad races and kingdoms of the world fought for control over the land and, at a time, the destruction of Sorcerous Kings who arose in an attempt to bend all to their will.
 
-The conclusion of the Sundering led to the establishment of [[Anthioc]] in [[Trord]] as well as the dissolution of various kingdoms across the land.
+The conclusion of the Sundering led to the establishment of [[Anthioc]] in [[Trord]] as well as the dissolution of various kingdoms across the land; the crystal spire standing as a memorial and testament to the power beyond the fade.
