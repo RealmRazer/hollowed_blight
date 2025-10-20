@@ -23,7 +23,6 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import Timeline from "./Timeline"
 
 export {
   ArticleTitle,
@@ -49,7 +48,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  Timeline,
   Flex,
   ConditionalRender,
 }
