@@ -21,7 +21,8 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import Timeline from "./Timeline"
+import Flex from "./Flex"
+import ConditionalRender from "./ConditionalRender"
 
 export {
   ArticleTitle,
@@ -47,5 +48,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  Timeline,
+  Flex,
+  ConditionalRender,
 }
