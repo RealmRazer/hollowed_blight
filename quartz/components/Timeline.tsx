@@ -1,23 +1,23 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/timelines.scss"
 import { htmlToJsx } from "../util/jsx"
-
-export default (() =>{
-  const Timeline: QuartzComponent = ({ displayClass, cfg  }: QuartzComponentProps) => {
+import style from "./styles/timelines.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+ 
+const Timeline: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
+    Timeline.css = style
     const content = htmlToJsx(fileData.filePath!, tree)
     const classes: string[] = fileData.frontmatter?.cssclasses ?? []
-    let foundTimeline = <p>No Timeline</p>
-    if(fileData.text?.includes('<div id="quarz-body">'))
+    if(fileData.text?.includes('without a domain'))
     {
       const timelineStart = fileData.text?.indexOf('<div xmlns="http://www.w3.org/1999/xhtml">');
       const timelineAct = <div dangerouslySetInnerHTML={{__html: fileData.text?.substring(timelineStart)}}></div>
+
       fileData.text = fileData.text.substring(0,timelineStart)
 
       //return timelineAct
-      foundTimeline = <p>Has Timeline</p>
+      return <p>Has Timeline</p>
     }
+ 
+    return <p>No Timeline</p>
   }
 
-  Timeline.css = style
-  return Timeline
-})satisfies QuartzComponentConstructor
+export default (() => Timeline) satisfies QuartzComponentConstructor
