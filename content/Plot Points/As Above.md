@@ -68,6 +68,7 @@ The time has come to deal with what lies below.
 * [[Kassim]] starts to learn about the magics and personal gain and arrogance used in the city
 * The Expedition travels to the mountain [[Apstarris]]
 	* Experiences a portent of ill tidings
+		* Someone will die during the mountain summit
 	* Reach the mountain at the dawn of the final day
 	* Fought a skirmish at the outside of the mountain
 		* Blackport soldiers injured
