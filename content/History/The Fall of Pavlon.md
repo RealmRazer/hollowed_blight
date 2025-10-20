@@ -4,7 +4,7 @@ description: Hubris breaks the binds of Arch Demons, and the city is rent asunde
 classes: 
 color: blue
 type: 
-startDate: -68551-0-0-00
+startDate: -26551-0-0-00
 endDate: 
 era: 
 path: ""

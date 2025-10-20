@@ -4,7 +4,7 @@ description: An ancient city lost to time under the the Sand of The Ash
 classes: 
 color: blue
 type: 
-startDate: -72582-0-0-0
+startDate: -30582-0-0-0
 endDate: 
 era: 
 path: ""
