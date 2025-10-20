@@ -1,15 +1,13 @@
 ---
 title: Hollowed Blight
 ---
- **Current Date**: Morti 29, NL 223
+ **Current Date**: Morti 33, NL 223
  
-Week after week passes as The Expedition prepares to summit [[Apstarris]]. [[Trenton|Tyr]] and [[Thomas|Cor Devlin]] join forces to rid [[Pavlon]] of its monster problem, while [[Alex|Paolo]] and [[Connor|Thalion]] start their return journey from [[Blackport]]. After ensuring the city is safe, and most of The Expedition returns to the crystal city, every turns to personal projects and improvements.
+The promised day has arrived, and The Expedition starts their summit into the peaks and depths of [[Apstarris]]. Pink and purple skies bear ill tidings as the soldiers march from [[Pavlon]] to the mountain, but there is no turning back. With rousing words and comforts exchanged, the band begins their ascent by meeting the initial forces at the base of the mountain.
 
-[[Adam|Father Octavian]] continues investigating the new innerworkings of [[Maelbreak]] and meets up with the first princess [[Tara Wakesong]]. After a discussion on priority and order, he removes [[Aeldfric Wakesong II]] from rule, securing the prosperity of the city, and also a large number of their forces for the battle ahead.
+Blades clash and arrows are loosed during the initial skirmish, but the forces of [[Klei]] stand tall, with some minor casualties to the [[Blackport]] soldiers and [[Thomas|Cor Devlin]]. Injuries mounting, the drive continues.
 
-Once finally regrouped, and feelings of dread for the coming battle are sorted, the questions of an [[Kassim|Old Elf]] start to ring in the halls of the lost city.
-
-4 days remain before danger finds the world, and an unknown force starts to walk down the mountain pass into [[Pavlon]].
+Soon.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

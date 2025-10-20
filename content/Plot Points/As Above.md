@@ -66,6 +66,12 @@ The time has come to deal with what lies below.
 		* [[Zola Pending|Zela]]
 	* Start working on in city food production
 * [[Kassim]] starts to learn about the magics and personal gain and arrogance used in the city
+* The Expedition travels to the mountain [[Apstarris]]
+	* Experiences a portent of ill tidings
+	* Reach the mountain at the dawn of the final day
+	* Fought a skirmish at the outside of the mountain
+		* Blackport soldiers injured
+		* [[Thomas|Cor Devlin]] injured
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."
