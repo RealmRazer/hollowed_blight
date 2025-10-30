@@ -73,6 +73,9 @@ The time has come to deal with what lies below.
 	* Fought a skirmish at the outside of the mountain
 		* Blackport soldiers injured
 		* [[Thomas|Cor Devlin]] injured
+	* Encounter the Voice of [[Jaggeth]]
+		* Kills [[Cedric|Cedric Gale]]
+		* The Expedition reclaims another [[Ritual Stones|Ritual Stone]]
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

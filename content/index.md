@@ -3,11 +3,11 @@ title: Hollowed Blight
 ---
  **Current Date**: Morti 33, NL 223
  
-The promised day has arrived, and The Expedition starts their summit into the peaks and depths of [[Apstarris]]. Pink and purple skies bear ill tidings as the soldiers march from [[Pavlon]] to the mountain, but there is no turning back. With rousing words and comforts exchanged, the band begins their ascent by meeting the initial forces at the base of the mountain.
+The Expedition continues their descent of [[Apstarris]]. After a swift, but painful encounter with the Voice of [[Jaggeth]], the army of [[Blackport]] is laid low, and [[Cedric]] fights for his last to make sure that at least some number can survive the encounter.
 
-Blades clash and arrows are loosed during the initial skirmish, but the forces of [[Klei]] stand tall, with some minor casualties to the [[Blackport]] soldiers and [[Thomas|Cor Devlin]]. Injuries mounting, the drive continues.
+Finding another [[Ritual Stones|Ritual Stone]] at the heart of the creature, the party continues through the ashen crag. Finding an entrance into the mountain, a rumble is felt beneath the earth, a sign the [[Möju]] is near. Descending quickly, they traverse a dangerous path and come face to face with the creature that started their journey once more.
 
-Soon.
+So Soon.
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

@@ -12,5 +12,6 @@ A young man Thalion rescued after he was gravely wounded defending others during
 
 He later started a small city militia to handle the ever increasing issues with the blessing of [[Alden Blackwood|Duke Alden]]. When [[Connor|Thalion]] came back to [[Blackport]] looking for aid in the final confrontation with [[Jaggeth]], he was one of those recruit to fight under his banner.
 
+At the final summit of [[Apstarris]], he was killed by the Voice of [[Jaggeth]] while attempting to save his comrades.
 # Relationships
 * [[Connor|Thalion Emberleaf]]
