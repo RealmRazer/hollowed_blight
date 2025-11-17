@@ -12,7 +12,9 @@ He previously belonged to an Elvish clan called Firvale, but has long since forg
 
 In his grief, he believes himself a steward to the safety of world. He keeps a horde of magical artifacts and goods underneath the Golden Concord's facility, each seemingly taken from some pirate, mage, or disciple. 
 
-He joins The Expedition after the attack at the Black Market, vowing to assist the party, but cut down those of magical aims if they threaten the very world he claims to protect.
+He joins The Expedition after the attack at the Black Market, vowing to assist the party, but cut down those of magical aims if they threaten the very world he claims to protect. 
+
+In a desperate attempt to slay one of the magic wielders in the party, he laid a curse upon himself and [[Thomas|Cor Devlin]] while trying to slay the fiend [[Möju]]. He was killed before the curse could fully take effect.
 # Relationships
 * [[Algor]]
 * [[Connor|Thalion]]

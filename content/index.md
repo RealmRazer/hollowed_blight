@@ -3,11 +3,12 @@ title: Hollowed Blight
 ---
  **Current Date**: Morti 33, NL 223
  
-The Expedition continues their descent of [[Apstarris]]. After a swift, but painful encounter with the Voice of [[Jaggeth]], the army of [[Blackport]] is laid low, and [[Cedric]] fights for his last to make sure that at least some number can survive the encounter.
+The Expedition continues their descent into the depths of [[Apstarris]]. Taking the quickest way to into the depths, they encounter once more the gigantic form of [[Möju]]. Facing the creature in pitched combat, the [[Möju|Right Arm of the King]] is laid low, and another [[Ritual Stones|Ritual Stone]] is recovered.
 
-Finding another [[Ritual Stones|Ritual Stone]] at the heart of the creature, the party continues through the ashen crag. Finding an entrance into the mountain, a rumble is felt beneath the earth, a sign the [[Möju]] is near. Descending quickly, they traverse a dangerous path and come face to face with the creature that started their journey once more.
+With mounting exhaustion and dwindling forces, The Party marches on towards their goal.
 
-So Soon.
+
+***You Draw Ever Closer To Me.***
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
