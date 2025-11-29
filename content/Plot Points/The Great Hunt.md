@@ -9,7 +9,7 @@ draft: false
 ---
 ![[9042a3705618aadf3642822622668cd9.jpg]]
 # Synopsis
-After surviving [[Blackport]], the expedition into [[The Ash]] takes place in earnest. The #players set out in an imported [[Aboa|Aboan]] craft along with some supplies procured by [[Adam|Father Octavian]] and funding supplied by [[Trenton|Tyr Emeraldcrag]]. The first day into the journey however, spells immediate trouble, as a combination of spirit magic and outside interest bring the expedition into the hunt for [[Tet'ka]]. 
+After surviving [[Blackport]], The expedition into [[The Ash]] takes place in earnest. [[The Expedition]] sets out in an imported [[Aboa|Aboan]] craft along with some supplies procured by [[Adam|Father Octavian]] and funding supplied by [[Trenton|Tyr Emeraldcrag]]. The first day into the journey however, spells immediate trouble, as a combination of spirit magic and outside interest bring [[The Expedition]] into the hunt for [[Tet'ka]]. 
 
 # Events
 - Run off course by [[Thomas|Cor Devlin]] summoning a Jinn
@@ -18,7 +18,7 @@ After surviving [[Blackport]], the expedition into [[The Ash]] takes place in ea
 - Lost the Sand Skiff in service negotiations
 - [[Adam|Father Octavian]], [[Connor|Thalion]], and [[Blue|Jeremiah]] find the the great beast [[Tet'ka]]
 - [[Trenton|Tyr]] learns Arcane Metallurgy
-- The Expedition slays [[Tet'ka]] and claims rewards and reputation
+- [[The Expedition]] slays [[Tet'ka]] and claims rewards and reputation
 
 <div class="ob-timelines"
 	data-title="The Great Hunt"

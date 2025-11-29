@@ -9,7 +9,7 @@ draft: false
 ---
 ![[mordor_s_call_by_dartxo_dfxuozi-fullview.jpg]]
 # Synopsis
-After securing the city of [[Pavlon]], the Expedition decides what their next goals are going to be for the future. [[Trenton|Tyr]] takes to the forges to finish his life's work, and [[Adam|Father Octavian]] divines the locations of the next set of Ritual Stones.
+After securing the city of [[Pavlon]], [[The Expedition]] decides what their next goals are going to be for the future. [[Trenton|Tyr]] takes to the forges to finish his life's work, and [[Adam|Father Octavian]] divines the locations of the next set of Ritual Stones.
 
 # Events
 * [[Pavlon|Pavlon's]] forge is relit
@@ -18,10 +18,10 @@ After securing the city of [[Pavlon]], the Expedition decides what their next go
 * [[Connor|Thalion]] discovers that [[The Ash]] has always been growing, and has only slowed it's march recently
 * [[Trenton|Tyr]], [[Blue|Jeremiah]], and [[Connor|Thalion]] discover the ports underneath the city
 * The Orcs of [[The Ash]] are given land and arms in an agreement to herald caravans towards [[Pavlon]]
-* The Expedition travels back to [[Blackport]]
+* [[The Expedition]] travels back to [[Blackport]]
 * [[Adam|Father Octavian]] brings 70 city folk over to [[Pavlon]]
 * [[Thomas|Cor Devlin]] crafts a dye for use with Cuckoo
-* The Expedition arrives in [[Maelbreak]]
+* [[The Expedition]] arrives in [[Maelbreak]]
 * [[Adam|Father Octavian]] reunites with his family at their mansion
 * [[Thomas|Cor Devlin]] divines the demonic interventions and points to [[Kethic Tamrin|Count Tamrin]]
 * Met up with a group of [[Demons|Demoinc Spawn]] being lead by a robed agitator

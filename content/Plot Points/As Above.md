@@ -9,7 +9,7 @@ draft: false
 ---
 ![[tsdug7q7idi71.webp]]
 # Synopsis
-After dealing with the [[Demons|Demonic Corruption]] of [[Otia]], The Expedition returns to the seas to continue their journey. Possessing all but the 4 [[Ritual Stones]] that lie in the heart of [[The Ash]], the party ties up loose ends before making their way back to [[Racinica]].
+After dealing with the [[Demons|Demonic Corruption]] of [[Otia]], [[The Expedition]] returns to the seas to continue their journey. Possessing all but the 4 [[Ritual Stones]] that lie in the heart of [[The Ash]], the party ties up loose ends before making their way back to [[Racinica]].
 
 The time has come to deal with what lies below.
 # Events
@@ -45,7 +45,7 @@ The time has come to deal with what lies below.
 	* [[Trenton|Tyr]] crafts a new Artifact Armor for [[Blue|Jeremiah]]
 	* [[Thomas|Cor Devlin]] awakens the spirits of the city
 * The [[Lantrik]] knights are brought on for the cause
-* The Expedition starts training to prepare for the summit
+* [[The Expedition]] starts training to prepare for the summit
 * [[Connor|Thalion]] leaves for [[Blackport]] to assemble more forces
 	* Recruits soldiers to fight in the coming battle
 * [[Adam|Father Octavian]] and [[Alex|Paolo]] leave for [[Maelbreak]] to seek the aid of Derrick Pilgrimheart
@@ -66,7 +66,7 @@ The time has come to deal with what lies below.
 		* [[Zola Pending|Zela]]
 	* Start working on in city food production
 * [[Kassim]] starts to learn about the magics and personal gain and arrogance used in the city
-* The Expedition travels to the mountain [[Apstarris]]
+* [[The Expedition]] travels to the mountain [[Apstarris]]
 	* Experiences a portent of ill tidings
 		* Someone will die during the mountain summit
 	* Reach the mountain at the dawn of the final day
@@ -75,7 +75,7 @@ The time has come to deal with what lies below.
 		* [[Thomas|Cor Devlin]] injured
 	* Encounter the Voice of [[Jaggeth]]
 		* Kills [[Cedric|Cedric Gale]]
-		* The Expedition reclaims another [[Ritual Stones|Ritual Stone]]
+		* [[The Expedition]] reclaims another [[Ritual Stones|Ritual Stone]]
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

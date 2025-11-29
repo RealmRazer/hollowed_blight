@@ -9,7 +9,7 @@ draft: false
 ---
 ![[Trord_Port.jpg]]
 # Synopsis
-The Expedition escapes the capitol city of [[Maelbreak]], a new artifact in hand. Their sights are now set on the trade city of [[Trord]] and the Dwarven City [[Otia]] across the ocean each of which contains an additional [[Ritual Stones|Ritual Stone]].
+[[The Expedition]] escapes the capitol city of [[Maelbreak]], a new artifact in hand. Their sights are now set on the trade city of [[Trord]] and the Dwarven City [[Otia]] across the ocean each of which contains an additional [[Ritual Stones|Ritual Stone]].
 
 But danger lurks on the open seas where lives are valued in coin.
 

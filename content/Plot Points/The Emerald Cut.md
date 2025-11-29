@@ -10,7 +10,7 @@ draft: false
 ![[emeraldcut.png]]
 # Synopsis
 
-The Expedition makes their way across the seas to [[Otia]], home and capitol nation of the [[Dwarves]]. [[Trenton|Tyr]] makes his way back home to finally set in motion the premonition of [[Casmira Hill|Casmira]] from long ago; take back the seat of power and lead the [[Dwarves]] to prosperity.
+[[The Expedition]] makes their way across the seas to [[Otia]], home and capitol nation of the [[Dwarves]]. [[Trenton|Tyr]] makes his way back home to finally set in motion the premonition of [[Casmira Hill|Casmira]] from long ago; take back the seat of power and lead the [[Dwarves]] to prosperity.
 
 Dangers, both familiar and familial, await in the mountains of industry. 
 # Events
