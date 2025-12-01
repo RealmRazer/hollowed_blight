@@ -1,5 +1,5 @@
 ---
-title: Stranger
+title: Yorick
 tags:
   - npc
 draft:

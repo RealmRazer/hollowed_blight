@@ -76,6 +76,15 @@ The time has come to deal with what lies below.
 	* Encounter the Voice of [[Jaggeth]]
 		* Kills [[Cedric|Cedric Gale]]
 		* [[The Expedition]] reclaims another [[Ritual Stones|Ritual Stone]]
+	* Descends further into the core of the mountain
+		* Treads a dangerous path to save time in the journey
+		* Slays the [[Möju|Right Arm of the King]]
+		* Reclaims another [[Ritual Stones|Ritual Stone]]
+	* Traverse the twisting mind altering caverns at the inside of [[Apstarris]]
+		* Reunited with [[Yorick]] in the subterranean caverns
+		* Learned the cavernous halls of [[Apstarris]] are actually the insides of a titanic Worm
+		* Reclaims another [[Ritual Stones|Ritual Stone]]
+	* Arrived lowest point of [[Apstarris]] through an ornate staircase
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

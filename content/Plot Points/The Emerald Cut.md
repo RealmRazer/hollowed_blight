@@ -40,7 +40,7 @@ Dangers, both familiar and familial, await in the mountains of industry.
 		* Started to Explore the deep dug monster caverns
 	* Found the resting quarters of the miners and a map
 	* Destroyed the remaining sigil stones, clearing the path deep into the mine
-	* Encountered the [[Stranger]]
+	* Encountered the [[Yorick]]
 		* Sent back to the entrance with [[Thomas|Cor Devlin]]
 		* Demonic blight removed
 		* Escaped into the wilderness

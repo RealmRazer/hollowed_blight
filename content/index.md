@@ -3,12 +3,9 @@ title: Hollowed Blight
 ---
  **Current Date**: Morti 33, NL 223
  
-The Expedition continues their descent into the depths of [[Apstarris]]. Taking the quickest way to into the depths, they encounter once more the gigantic form of [[Möju]]. Facing the creature in pitched combat, the [[Möju|Right Arm of the King]] is laid low, and another [[Ritual Stones|Ritual Stone]] is recovered.
+At the precipice of destruction, [[The Expedition]] arrives at the very heart of the living mountain [[Apstarris]]. Standing on a broken platform suffused with dark energy, stands the living saint [[Kealeen Numera]]. Clutching the final [[Ritual Stones|Ritual Stone]], [[Numera]] relief is conveyed to the party and [[Jaggeth]] speaks.
 
-With mounting exhaustion and dwindling forces, The Party marches on towards their goal.
-
-
-***You Draw Ever Closer To Me.***
+***You Have Arrived. Return What is Mine.***
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
