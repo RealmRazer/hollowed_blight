@@ -3,9 +3,9 @@ title: Hollowed Blight
 ---
  **Current Date**: Morti 33, NL 223
  
-At the precipice of destruction, [[The Expedition]] arrives at the very heart of the living mountain [[Apstarris]]. Standing on a broken platform suffused with dark energy, stands the living saint [[Kealeen Numera]]. Clutching the final [[Ritual Stones|Ritual Stone]], [[Numera]] relief is conveyed to the party and [[Jaggeth]] speaks.
+At the precipice of destruction, [[The Expedition]] arrives at the very heart of the living mountain [[Apstarris]]. Standing on a broken platform suffused with dark energy, stands the living saint [[Kealeen Numera]]. Clutching the final [[Ritual Stones|Ritual Stone]], [[Numera|Numera's]] relief is conveyed to the party as [[Jaggeth]] speaks.
 
-***You Have Arrived. Return What is Mine.***
+***You Tread Upon My Domain Mortals. Return to Me My Strength!***
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->
