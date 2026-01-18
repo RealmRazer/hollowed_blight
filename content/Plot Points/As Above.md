@@ -85,6 +85,9 @@ The time has come to deal with what lies below.
 		* Learned the cavernous halls of [[Apstarris]] are actually the insides of a titanic Worm
 		* Reclaims another [[Ritual Stones|Ritual Stone]]
 	* Arrived lowest point of [[Apstarris]] through an ornate staircase
+		* Met [[Kealeen Numera]]
+		* Placed the ritual stones
+		* Came upon a terrible decision...
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

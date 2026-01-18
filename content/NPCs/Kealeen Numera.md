@@ -11,4 +11,3 @@ A saint from years past who traveled the lands trying to right a number of wrong
 
 Her disappearance sparked the creation of the [[Numera|Nemeran Faith]], a church of both good natured and corrupt individuals attempting to capitalize on her deeds.
 # Relationships
-* 
