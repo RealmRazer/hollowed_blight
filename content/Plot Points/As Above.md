@@ -82,12 +82,19 @@ The time has come to deal with what lies below.
 		* Reclaims another [[Ritual Stones|Ritual Stone]]
 	* Traverse the twisting mind altering caverns at the inside of [[Apstarris]]
 		* Reunited with [[Yorick]] in the subterranean caverns
-		* Learned the cavernous halls of [[Apstarris]] are actually the insides of a titanic Worm
+		* Learned the cavernous halls of [[Apstarris]] are actually the insides of a titanic Wurm
 		* Reclaims another [[Ritual Stones|Ritual Stone]]
 	* Arrived lowest point of [[Apstarris]] through an ornate staircase
 		* Met [[Kealeen Numera]]
 		* Placed the ritual stones
 		* Came upon a terrible decision...
+			* Sacrificed [[Trenton|Tyr]]'s constructed amulet with [[Adam|Father Octavian]]'s power
+			* Sacrificed the rest of the companies fuel
+		* Sealed [[Jaggeth]] and banished him from the mortal plane forever
+			* [[Adam|Father Octavian]] ascends outside of the divine realm
+		* Escaped the waking mountain of [[Apstarris]]
+			* [[Thomas|Cor Devlin]] gives his life to see the rest of [[The Expedition]] to safety
+			* The mountain descends into the land leading to earthquakes, and an altogether new threat
 <div class="ob-timelines"
 	data-title="As Above, So Below"
 	data-description="Little remains for The Expedition, save the final confrontation."

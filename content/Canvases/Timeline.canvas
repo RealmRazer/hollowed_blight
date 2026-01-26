@@ -58,7 +58,7 @@
 		{"id":"067d8b02e3307650","type":"text","text":"# ⭐NL 206\nCor Devlin becomes an Apprentice","x":15270,"y":-1100,"width":250,"height":145,"color":"#72431d"},
 		{"id":"4f3d8d29a520c81d","type":"text","text":"# ⭐NL 201\nThe birth of Jeremiah","x":14420,"y":-1700,"width":250,"height":145,"color":"#2c2ab2"},
 		{"id":"535d0052fc0edba3","type":"text","text":"# ⭐NL 213\nJeremiah becomes a Burglar","x":16180,"y":-1700,"width":250,"height":145,"color":"#2c2ab2"},
-		{"id":"3fa0e34b79165149","type":"file","file":"content/World Knowledge/Divinity/Numera.md","x":-405,"y":400,"width":400,"height":400},
+		{"id":"3fa0e34b79165149","type":"file","file":"content/World Knowledge/Divinity/Numeran Faith.md","x":-405,"y":400,"width":400,"height":400},
 		{"id":"1bc3cbacc957d453","type":"text","text":"# FL 33\nThe birth of Numera","x":-330,"y":-200,"width":250,"height":145,"color":"1"},
 		{"id":"a75f9823c605e1ee","type":"file","file":"content/Locations/Racinica/Lantrik/Lantrik.md","x":-1935,"y":400,"width":400,"height":400},
 		{"id":"442aa48a50a5a8c9","type":"text","text":"# FL 332\nRacinica unites under Lantrik","x":-1860,"y":-200,"width":250,"height":145},

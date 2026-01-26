@@ -55,7 +55,7 @@ Dangers, both familiar and familial, await in the mountains of industry.
 		* Learns the name [[Jaggeth|Jaggeth Ket Alhmien]]
 	* Inform [[Thordiac Emeraldcrag|Thordiac]] of the fate of the mines
 	* Make deals with the apothecaries
-	* Covert [[Novek Goldtor]] to support [[Numera]]
+	* Covert [[Novek Goldtor]] to support [[Numeran Faith]]
 	* Leave for [[Bharn Darom]]
 * Attempt to reach the Low King
 	* [[Adam|Father Octavian]] is concealing the forged Necklace

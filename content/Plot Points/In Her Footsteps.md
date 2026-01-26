@@ -9,7 +9,7 @@ draft: false
 ---
 ![[tumblr_inline_pp358sePiJ1r17oyd_1280.jpg]]
 # Synopsis
-After getting information and reclaiming their goods and more from the Orcish camp, the #players in [[The Expedition]] sets out to find traces of history scattered across [[The Ash]]. Somewhere, [[Pinity Ironmountain|Pinity]] is leading a troupe of explorers to some yet unknown site in the wastes, and the the wisdom [[Numera]] is sown deep into the demons yet to be discovered.
+After getting information and reclaiming their goods and more from the Orcish camp, the #players in [[The Expedition]] sets out to find traces of history scattered across [[The Ash]]. Somewhere, [[Pinity Ironmountain|Pinity]] is leading a troupe of explorers to some yet unknown site in the wastes, and the the wisdom [[Numeran Faith]] is sown deep into the demons yet to be discovered.
 
 # Events
 * Discovered the Derelict Camp
@@ -17,7 +17,7 @@ After getting information and reclaiming their goods and more from the Orcish ca
 * Found the Lost City of [[Pavlon]] along with [[Pinity Ironmountain|Pinity]] and company
 * Learned about the history of [[Demons|Demonic]] summoning and bindings
 * Encountered [[Oculicii]]
-* Discovered a divination relic left behind by [[Numera]]
+* Discovered a divination relic left behind by [[Numeran Faith]]
 * Found the Spirit Eugenics facility where experimentation on [[Jaggeth]] took place
 * Slayed [[Oculicii]]
 * Stopped [[Pinity Ironmountain|Pinity]] from taking over the forge

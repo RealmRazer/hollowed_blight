@@ -38,6 +38,11 @@ aliases:
 # Background
 An exiled thief living in [[Pinity Ironmountain|Pinity's]] workshop looking for a way back home for him and his friend.
 
+Following the events at [[Apstarris]], Jeremiah returned to [[Pavlon]] to live out their days as the leader of the new Thieves Guild at [[Pavlon]]. While still an underbelly of criminal organization, the guild extends its efforts to make sure that those in need are fed and have a way to learn news skills.
+
+He runs the guild with the along with the assistance of his wife [[Chérie]] and also the Familiar in the form of a hat, gifted to him by [[Thomas|Cor Devlin]] before his demise at [[Apstarris]].
+
 # Relationships
-* [[Cuckoo]]
+* [[Cuckoo]]: Beastfolk best friend
 * [[Folk, Of Flagrant Dawn]]: Orc War Chief
+* [[Chérie]]: Wife and co-leader of the Thieves Guild

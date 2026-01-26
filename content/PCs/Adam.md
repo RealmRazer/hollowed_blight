@@ -40,6 +40,8 @@ aliases:
 # Background
 A priest attempting to spread his name through the land in hopes of winning the hearts and money of the people.
 
+After journeying with [[The Expedition]], Octavian deepened his connection with [[Numeran Faith]] and in the confrontation with [[Jaggeth]], gave his life in ascension to see him sealed away. Reaching the pinnacle of faith, he passed through to an different realm of reality before even [[Kealeen Numera]] herself.
+
 # Relationships
 * Varick Pilgrimheart: Octavian's Father
 * Isolde Pilgrimheart: Octavian's Mother

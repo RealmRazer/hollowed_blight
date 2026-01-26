@@ -3,11 +3,7 @@ title: Hollowed Blight
 ---
  **Current Date**: Morti 33, NL 223
  
-Stones in place. Ritual at hand.
-
-
-A final decision...
-
+300 years remain...
 
 # Event Timeline
 <!--TIMELINE BEGIN tags='recap'-->

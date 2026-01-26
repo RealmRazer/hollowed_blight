@@ -1,5 +1,5 @@
 ---
-title: Numera
+title: Numerann Faith
 tags:
   - divinity
 aliases:

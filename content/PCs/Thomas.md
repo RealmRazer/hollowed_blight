@@ -42,3 +42,7 @@ aliases:
 A Hedge Mage living on the Streets of Blackport. Blessed by the spirit of fortune and making his day's meal by selling the people his wares.
 
 Walks around with his pack donkey Humphry and a seeming inanimate but spirited hat atop his head.
+
+During his travels with [[The Expedition]], he towed his binding contract with [[Spirits| Lady Fortuna]], and after selling his soul for his to expand his domains of influence, finally succeeded in banishing [[Jaggeth]]. During the escape from [[Apstarris]], the awakening of death of the party was prevented with his sacrifice, opening a portal to the outside world so that his friends could escape.
+
+Following his death, his soul still stands beside The Lady of Fortune, bound forever at her service.

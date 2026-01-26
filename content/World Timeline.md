@@ -44,5 +44,8 @@ timeline
 		NL 217: Father Octavian Becomes an Archpriest
 			: Paolo Becomes a Mercenary Captain
 		NL 223: Attack on Blackport (Hollowed Blight Campaign)
-			: Rediscovery of Pavlon
+			: Rediscovery and Restoration of Pavlon as a Free City by Tyr Emeraldcrag
+			: The ascension of the Saint Octavian Pilgrimheart
+			: The banishment of the Grand Demon Jaggeth
+			: The establishment of the Pretty Pirates Merchant and Mercenary company
 ```

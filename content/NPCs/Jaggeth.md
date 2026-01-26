@@ -26,3 +26,5 @@ The stones are located in [[The Ash]], [[Trord]], [[Otia]], and [[Maelbreak]].
 * "...to Gag the Mouth"
 * "...to Dull the Mind"
 * "...to Blind the Eyes"
+
+After placing all the stones inside his lair, [[The Expedition]] sealed him past the Fade, sacrificing some of their own resources in the process. [[Adam|Father Octavian]] gave his life in the ritual to see him sealed away from the world for good.

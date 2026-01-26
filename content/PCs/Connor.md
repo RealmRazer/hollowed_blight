@@ -39,6 +39,11 @@ aliases:
 # Background
 An Elf traveling the lands and playing in the locals inns. Currently residing in Blackport and staying at the Oak and Eagle Inn. 
 
+Feeling the weight of [[Magic|Grief]] and responsibility, the events after the banishment were works of endearment. Thalion watched over and tried to better get to know his new found companions and friends from [[The Expedition]] for whatever time they had left.
+
+With eternity ahead of him, Thalion continued to spread the song of their triumph over [[Jaggeth]] as a song of hope to inspire the people of [[Klei]] to the great heroics he knew they could achieve and that would be required. In the may years and centuries after the events of NL223, Thalion now strives for new goal.
+
+300 years remain before the Great Wurm [[Apstarris]] would need to be dealt with, before another calamity would claim the ever tenuous peace that the world knows. Thalion now travels the world, hoping to find the next heroes who will face the challenge.
 # Relationships
 * [[Alden Blackwood]]: The Duke of [[Blackport]]
 * [[Maxwell Blackwood]]: The owner of the [[Oak and Eagle Inn]] in [[Blackport]]

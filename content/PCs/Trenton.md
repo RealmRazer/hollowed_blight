@@ -39,8 +39,11 @@ aliases:
 # Background
 27th in line for the throne of the [[Emeraldcrag]] lineage. With no easy way to secure the throne and of his own lineage, Tyr turned to crafting.
 
-Carries a light axe as a reminder to never settle for poor craftsmanship
+Carries a light axe as a reminder to never settle for poor craftsmanship.
 
+Following the banishment of [[Jaggeth]] and the awakening of the mountain [[Apstarris]], Tyr returned to [[Pavlon]] in an administrative capacity. The overseers appointed to look after the many different factions worked tirelessly to make sure that the city continued to thrive.
+
+With less time for blacksmithing, Tyr now spends his absent hours trying to learn the art of engineering, and continues to prove [[Pavlon]] as a new powerhouse in the field of Magitek.
 ## Greed Idioms
 + Power
 + Craftsmanship
